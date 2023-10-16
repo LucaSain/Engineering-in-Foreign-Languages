@@ -33,9 +33,9 @@
             "id": "daf1c42f8140fd6a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted image 20231015162006.png"
+                "file": "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231015162006.png",
+                "file": "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231015162006.png",
+                "file": "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231015162006.png"
+                "file": "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md"
               }
             }
           },
@@ -202,6 +202,8 @@
   },
   "active": "daf1c42f8140fd6a",
   "lastOpenFiles": [
+    "Electrical Engineering/Semester I/Excalidraw/Drawing 2023-10-15 16.13.27.excalidraw.md",
+    "Pasted image 20231015162006.png",
     "Professional Communication/Homework W3.md",
     "Chemestry I/Semester I.md",
     "git/packed-refs",
@@ -215,7 +217,6 @@
     "git/refs",
     "git/hooks/update.sample",
     "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md",
-    "Electrical Engineering/Semester I/Excalidraw/Drawing 2023-10-15 16.13.27.excalidraw.md",
     "Linear Algebra/Semester I/Seminars/Untitled.md",
     "Chemestry I/Seminar Week 3.md",
     "Screenshot 2023-10-16 at 10.59.21.png",
@@ -223,7 +224,6 @@
     "Electrical Engineering/Semester I/Homework I.md",
     "Screenshot 2023-10-15 at 16.21.09.png",
     "Electrical Engineering/Semester I/Week 1.md",
-    "Pasted image 20231015162006.png",
     "Electrical Engineering/Semester I/Week 2.md",
     "Professional Communication/Semester I.md",
     "Programming Languages/Semester I.md",
