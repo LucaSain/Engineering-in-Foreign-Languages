@@ -33,11 +33,9 @@
             "id": "daf1c42f8140fd6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md"
               }
             }
           },
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
+                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
+                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md"
+                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md"
               }
             }
           },
@@ -205,10 +203,11 @@
   },
   "active": "daf1c42f8140fd6a",
   "lastOpenFiles": [
+    "Linear Algebra/Semester I/Seminars/Week 3.md",
+    "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
-    "Linear Algebra/Semester I/Seminars/Week 3.md",
     "Chemestry/Semester I/Seminars/Week 3.md",
     "Chemestry/Semester I/Homeworks",
     "Chemestry/Semester I/Lectures/Week 1.md",
