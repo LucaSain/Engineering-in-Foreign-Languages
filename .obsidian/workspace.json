@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemestry I/Semester I.md",
+                "file": "Chemestry/Semester I/Lectures/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week3.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week3.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week3.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week3.md"
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md"
               }
             }
           },
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,39 +204,39 @@
   },
   "active": "daf1c42f8140fd6a",
   "lastOpenFiles": [
+    "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "Images/Pasted image 20231015162006.png",
+    "Images",
+    "Linear Algebra/Semester I/Seminars/Week 3.md",
+    "Chemestry/Semester I/Seminars/Week 3.md",
+    "Chemestry/Semester I/Homeworks",
+    "Chemestry/Semester I/Lectures/Week 1.md",
+    "Chemestry/Semester I/Seminars",
+    "Chemestry/Semester I/Lectures",
+    "Operating Systems/Semester I/Lectures/Week 1.md",
+    "Chemestry/Semester I",
+    "Professional Communication/Semester I/Homeworks",
+    "Professional Communication/Semester I/Seminars",
+    "Professional Communication/Semester I/Lectures/Untitled",
+    "Professional Communication/Semester I/Lectures",
+    "Professional Communication/Semester I",
     "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Excalidraw/HW1 2023-10-16 13.23.05.excalidraw.md",
-    "Excalidraw",
     "Programming Languages/Semester I.md",
-    "Electrical Engineering/Semester I/Lectures",
-    "Untitled",
-    "Electrical Engineering/Semester I/Seminars",
-    "Electrical Engineering/Semester I/Homeworks/HW1",
-    "Electrical Engineering/Semester I/Homeworks",
-    "Pasted image 20231015162006.png",
-    "Professional Communication/Homework W3.md",
-    "Chemestry I/Semester I.md",
-    "git/packed-refs",
-    "git/index",
-    "git/refs/remotes/origin/HEAD",
-    "git/refs/remotes/origin",
-    "Linear Algebra/Semester I/Seminars/Week3.md",
-    "Chemestry I/Seminar Week 3.md",
-    "Screenshot 2023-10-16 at 10.59.21.png",
-    "Screenshot 2023-10-16 at 10.24.09.png",
-    "Screenshot 2023-10-15 at 16.21.09.png",
-    "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "Professional Communication/Semester I/Homeworks/HW1.md",
+    "Images/Screenshot 2023-10-16 at 10.59.21.png",
+    "Images/Screenshot 2023-10-16 at 10.24.09.png",
+    "Images/Screenshot 2023-10-15 at 16.21.09.png",
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
-    "Professional Communication/Semester I.md",
-    "Operating Systems/Semester I/Week 1.md",
-    "Screenshot 2023-10-10 at 11.43.12.png",
-    "Screenshot 2023-10-10 at 11.42.48.png",
-    "Screenshot 2023-10-10 at 11.27.16.png",
-    "Screenshot 2023-10-10 at 11.13.30.png",
-    "Screenshot 2023-10-10 at 10.48.21.png",
-    "Screenshot 2023-10-10 at 10.34.59.png",
+    "Professional Communication/Semester I/Seminars/Week 1.md",
+    "Images/Screenshot 2023-10-10 at 11.43.12.png",
+    "Images/Screenshot 2023-10-10 at 11.42.48.png",
+    "Images/Screenshot 2023-10-10 at 11.27.16.png",
+    "Images/Screenshot 2023-10-10 at 11.13.30.png",
+    "Images/Screenshot 2023-10-10 at 10.48.21.png",
+    "Images/Screenshot 2023-10-10 at 10.34.59.png",
     "Books/48 Laws of power.md",
     "2023-09-24.md",
     "Untitled.canvas"
