@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "efb461b1e2cb0575",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce88ffb7139070b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4335c21657dc0916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemestry I/Semester I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d92a22e40cf84e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Electrical Engineering/Semester I/Excalidraw/Drawing 2023-10-15 16.13.27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "daf1c42f8140fd6a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231015162006.png"
+              }
+            }
+          },
+          {
+            "id": "f4bbaed1183e5b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrical Engineering/Semester I/Homework I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89a6532801b6c47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrical Engineering/Semester I/Homework I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ea49f4d6333ff98",
+    "type": "split",
+    "children": [
+      {
+        "id": "38652b5f9c68a3d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400686bf9894f172",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7d88c5aead73f3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efeccd5b0101dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "right": {
+    "id": "445610bfaa664cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e981463b17e7377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67c656c9d92ffa32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20231015162006.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c93d7e6df7e39970",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20231015162006.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd4105e01bc2b6a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ab05ffd69648856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20231015162006.png"
+              }
+            }
+          },
+          {
+            "id": "96c2115602353ef3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "daf1c42f8140fd6a",
+  "lastOpenFiles": [
+    "Professional Communication/Homework W3.md",
+    "Chemestry I/Semester I.md",
+    "git/packed-refs",
+    "git/index",
+    "git/refs/remotes/origin/HEAD",
+    "git/refs/remotes/origin",
+    "git/refs/heads/main",
+    "git/refs/tags",
+    "git/refs/remotes",
+    "git/refs/heads",
+    "git/refs",
+    "git/hooks/update.sample",
+    "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md",
+    "Electrical Engineering/Semester I/Excalidraw/Drawing 2023-10-15 16.13.27.excalidraw.md",
+    "Linear Algebra/Semester I/Seminars/Untitled.md",
+    "Chemestry I/Seminar Week 3.md",
+    "Screenshot 2023-10-16 at 10.59.21.png",
+    "Screenshot 2023-10-16 at 10.24.09.png",
+    "Electrical Engineering/Semester I/Homework I.md",
+    "Screenshot 2023-10-15 at 16.21.09.png",
+    "Electrical Engineering/Semester I/Week 1.md",
+    "Pasted image 20231015162006.png",
+    "Electrical Engineering/Semester I/Week 2.md",
+    "Professional Communication/Semester I.md",
+    "Programming Languages/Semester I.md",
+    "Operating Systems/Semester I/Week 1.md",
+    "Screenshot 2023-10-10 at 11.43.12.png",
+    "Screenshot 2023-10-10 at 11.42.48.png",
+    "Screenshot 2023-10-10 at 11.27.16.png",
+    "Screenshot 2023-10-10 at 11.13.30.png",
+    "Screenshot 2023-10-10 at 10.48.21.png",
+    "Screenshot 2023-10-10 at 10.34.59.png",
+    "Books/48 Laws of power.md",
+    "2023-09-24.md",
+    "Untitled.canvas"
+  ]
+}
