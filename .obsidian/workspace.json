@@ -23,19 +23,11 @@
             "id": "8d92a22e40cf84e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "daf1c42f8140fd6a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md"
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -64,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md"
+                "file": "Linear Algebra/Semester I/Seminars/Week 3.md"
               }
             }
           },
@@ -201,10 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "daf1c42f8140fd6a",
+  "active": "8d92a22e40cf84e7",
   "lastOpenFiles": [
-    "Linear Algebra/Semester I/Seminars/Week 3.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
+    "Linear Algebra/Semester I/Seminars/Week 3.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
@@ -222,7 +215,6 @@
     "Professional Communication/Semester I",
     "Linear Algebra/Semester I/Seminars/Excalidraw/Week 3.excalidraw.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Excalidraw/HW1 2023-10-16 13.23.05.excalidraw.md",
     "Programming Languages/Semester I.md",
     "Professional Communication/Semester I/Homeworks/HW1.md",
