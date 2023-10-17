@@ -53,4 +53,6 @@ The **IVS** is an active element.
 1. if e == 0: u=0 whatever i => short circuit === passivation of an *IVS*
 
 ## Ideal Current Source (independent source) = ICS
-**The ICS** is 
+**The ICS** is a current source, where the current does not depend on the voltage.
+![[Week 3 2023-10-17 10.47.15.excalidraw]]
+
