@@ -44,3 +44,13 @@ e[V]
 ```
 
 It's not a symmetric element.
+![[Week 3 2023-10-17 10.36.38.excalidraw]]
+u=+-e, whatever i
+![[Week 3 2023-10-17 10.38.13.excalidraw]]
+![[Week 3 2023-10-17 10.41.05.excalidraw]]
+The **IVS** is an active element.
+
+1. if e == 0: u=0 whatever i => short circuit === passivation of an *IVS*
+
+## Ideal Current Source (independent source) = ICS
+**The ICS** is 
