@@ -59,4 +59,4 @@ The **IVS** is an active element.
 
  If j=0; i=0, whatever u => open-circuit
 ![[Week 3 2023-10-17 11.09.22.excalidraw]]
-
+![[Week 3 2023-10-17 11.16.34.excalidraw]]
