@@ -57,6 +57,15 @@ The **IVS** is an active element.
 ![[Week 3 2023-10-17 10.47.15.excalidraw]]
 ![[Week 3 2023-10-17 11.06.34.excalidraw]]
 
- If j=0; i=0, whatever u => open-circuit
+ If j=0; i=0, whatever u => open-circuit => perfect isolator
 ![[Week 3 2023-10-17 11.09.22.excalidraw]]
 ![[Week 3 2023-10-17 11.16.34.excalidraw]]
+
+![[Week 3 2023-10-17 11.19.58.excalidraw]]
+
+# Real Elements
+
+## 1. Real Voltage Source (RVS)
+Technically a *IVS* connected w/ a Resistor in series.
+![[Week 3 2023-10-17 11.25.52.excalidraw]]
+**IVS**: R=0
