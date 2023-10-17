@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d12828c60546dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Week 3 2023-10-17 11.06.34.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
+                "file": "Excalidraw/Week 3 2023-10-17 11.06.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
+                "file": "Excalidraw/Week 3 2023-10-17 11.06.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md"
+                "file": "Excalidraw/Week 3 2023-10-17 11.06.34.excalidraw.md"
               }
             }
           },
@@ -157,10 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d92a22e40cf84e7",
+  "active": "d12828c60546dfb9",
   "lastOpenFiles": [
-    "Excalidraw/Week 3 2023-10-17 10.47.15.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
+    "Excalidraw/Week 3 2023-10-17 11.06.34.excalidraw.md",
+    "Excalidraw/Week 3 2023-10-17 10.47.15.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 10.41.05.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 10.38.13.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 10.36.38.excalidraw.md",
@@ -198,7 +210,6 @@
     "Images/Screenshot 2023-10-16 at 10.24.09.png",
     "Images/Screenshot 2023-10-15 at 16.21.09.png",
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
-    "Professional Communication/Semester I/Seminars/Week 1.md",
     "Images/Screenshot 2023-10-10 at 11.43.12.png",
     "Images/Screenshot 2023-10-10 at 11.42.48.png",
     "Images/Screenshot 2023-10-10 at 11.27.16.png",
