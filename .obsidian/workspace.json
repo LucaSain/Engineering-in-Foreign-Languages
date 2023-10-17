@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
+                "file": "Professional Communication/Semester I/Seminars/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
+                "file": "Professional Communication/Semester I/Seminars/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
+                "file": "Professional Communication/Semester I/Seminars/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md"
+                "file": "Professional Communication/Semester I/Seminars/Week 1.md"
               }
             }
           },
@@ -143,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +158,9 @@
   },
   "active": "8d92a22e40cf84e7",
   "lastOpenFiles": [
-    "Excalidraw/Week 3 2023-10-17 11.39.55.excalidraw.md",
+    "Professional Communication/Semester I/Homeworks/HW1.md",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
+    "Excalidraw/Week 3 2023-10-17 11.39.55.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 11.34.53.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 11.32.03.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 11.28.16.excalidraw.md",
@@ -185,7 +186,6 @@
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
-    "Chemestry/Semester I/Seminars/Week 3.md",
     "Chemestry/Semester I/Homeworks",
     "Chemestry/Semester I/Seminars",
     "Chemestry/Semester I/Lectures",
