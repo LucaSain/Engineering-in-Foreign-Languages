@@ -56,3 +56,7 @@ The **IVS** is an active element.
 **The ICS** is a current source, where the current does not depend on the voltage.
 ![[Week 3 2023-10-17 10.47.15.excalidraw]]
 ![[Week 3 2023-10-17 11.06.34.excalidraw]]
+
+ If j=0; i=0, whatever u => open-circuit
+![[Week 3 2023-10-17 11.09.22.excalidraw]]
+
