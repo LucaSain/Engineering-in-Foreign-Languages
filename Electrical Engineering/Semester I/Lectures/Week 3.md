@@ -21,5 +21,26 @@ The parameter of the resistor is the **resistance**. R-SI> Ω
 ```u=f(i)```
 ![[Week 3 2023-10-17 10.20.17.excalidraw]]
 
-1. if R=0 (G=∞): U=0, whatever i (shortcircuit)
-2. if R=∞ (G=0): i=0, whatever u (opencircuit)
+1. if R=0 (G=∞): U=0, whatever i (shortcircuit = perfect conductor)
+2. if R=∞ (G=0): i=0, whatever u (opencircuit = perfect isolator)
+
+#### Energetic characterisation
+![[Week 3 2023-10-17 10.27.56.excalidraw]]
+1. The resistor is a passive element.
+2. It receives current from the circuit. 
+3. It does not store energy. 
+4. It transforms energy into head using the Joule's effect.
+
+
+## Ideal Voltage Source (IVS🙏)
+**The IVS** is a one port element where the voltage does not depend on the current, so it's an independent voltage source.
+
+![[Week 3 2023-10-17 10.32.57.excalidraw]]
+The parameter of the IVS is the electromotive force.
+```text
+e=e(t)
+e(t), when t=const = E
+e[V]
+```
+
+It's not a symmetric element.
