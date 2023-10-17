@@ -74,7 +74,13 @@ Technically a *IVS* connected w/ a Resistor in series.
 ![[Week 3 2023-10-17 11.32.03.excalidraw]]
 ![[Week 3 2023-10-17 11.34.53.excalidraw]]
 U0 =+-E Open Circuit Voltage (when I=0)
-Ish =+-E/R Short Circuit Voltafe (when U=0)
+Ish =+-E/R Short Circuit Voltage (when U=0)
 
 ## Real Current Source
-A real current source 
+A real current source is basically an ideal current source connected in parallel w/ an ideal resistor.
+![[Week 3 2023-10-17 11.39.55.excalidraw]]
+I = I1 + I2 = j + G * U
+I = +-j+-G * U
+
+# The fucking theorem of god 🐙
+Goodbye and thanks for the fish
