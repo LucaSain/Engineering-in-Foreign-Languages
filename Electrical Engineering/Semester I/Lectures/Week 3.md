@@ -67,5 +67,14 @@ The **IVS** is an active element.
 
 ## 1. Real Voltage Source (RVS)
 Technically a *IVS* connected w/ a Resistor in series.
-![[Week 3 2023-10-17 11.25.52.excalidraw]]
 **IVS**: R=0
+**U**=+-Ri+-e
+![[Week 3 2023-10-17 11.28.16.excalidraw]]
+
+![[Week 3 2023-10-17 11.32.03.excalidraw]]
+![[Week 3 2023-10-17 11.34.53.excalidraw]]
+U0 =+-E Open Circuit Voltage (when I=0)
+Ish =+-E/R Short Circuit Voltafe (when U=0)
+
+## Real Current Source
+A real current source 
