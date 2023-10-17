@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4335c21657dc0916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8d92a22e40cf84e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4bbaed1183e5b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89a6532801b6c47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Semester I/Seminars/Week 3.md"
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md"
               }
             }
           },
@@ -195,9 +159,12 @@
   },
   "active": "8d92a22e40cf84e7",
   "lastOpenFiles": [
+    "Excalidraw/Week 3 2023-10-17 09.58.32.excalidraw.md",
+    "Electrical Engineering/Semester I/Lectures/Week 3.md",
+    "Untitled.md",
+    "Linear Algebra/Semester I/Seminars/Week 3.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
-    "Linear Algebra/Semester I/Seminars/Week 3.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
