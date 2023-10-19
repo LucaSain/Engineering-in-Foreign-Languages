@@ -11,8 +11,12 @@
             "id": "8da679913d8f1732",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md"
+              }
             }
           },
           {
@@ -150,6 +159,9 @@
   },
   "active": "8da679913d8f1732",
   "lastOpenFiles": [
+    "Linear Algebra/Semester I/Seminars/Week 3.md",
+    "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
+    "Linear Algebra/Semester I/Lectures",
     "Professional Communication/Semester I/Seminars/Week 1.md",
     "Psihopeda/Seminar I.md",
     "Psihopeda",
@@ -174,9 +186,7 @@
     "Excalidraw/Week 3 2023-10-17 10.16.39.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 10.08.55.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 09.58.32.excalidraw.md",
-    "Linear Algebra/Semester I/Seminars/Week 3.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-16 13.37.43.excalidraw.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
     "Chemestry/Semester I/Homeworks",
@@ -186,7 +196,6 @@
     "Professional Communication/Semester I/Homeworks",
     "Professional Communication/Semester I/Seminars",
     "Professional Communication/Semester I/Lectures/Untitled",
-    "Professional Communication/Semester I/Lectures",
     "Images/Screenshot 2023-10-16 at 10.59.21.png",
     "Images/Screenshot 2023-10-16 at 10.24.09.png",
     "Images/Screenshot 2023-10-15 at 16.21.09.png",
