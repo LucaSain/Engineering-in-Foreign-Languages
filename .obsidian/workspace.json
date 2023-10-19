@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "356ae862d2f62614",
+        "id": "8a6c94a0a02968c7",
         "type": "tabs",
         "children": [
           {
-            "id": "8da679913d8f1732",
+            "id": "0b740a012f4083b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
-                "mode": "source",
-                "source": false
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Semester I/Lectures/Vector Spaces.md"
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md"
               }
             }
           },
@@ -157,10 +154,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8da679913d8f1732",
+  "active": "0b740a012f4083b1",
   "lastOpenFiles": [
-    "Excalidraw/Vector Spaces 2023-10-19 18.10.42.excalidraw.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+    "Electrical Engineering/Semester I/Lectures/Week 2.md",
+    "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "Electrical Engineering/Semester I/Lectures/Week 3.md",
     "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
+    "Excalidraw/Vector Spaces 2023-10-19 18.10.42.excalidraw.md",
     "Excalidraw/Vector Spaces 2023-10-19 18.09.14.excalidraw.md",
     "Linear Algebra/Semester I/Seminars/Week 3.md",
     "Linear Algebra/Semester I/Lectures",
@@ -168,7 +169,6 @@
     "Psihopeda/Seminar I.md",
     "Psihopeda",
     "Professional Communication/Semester I/Homeworks/HW1.md",
-    "Electrical Engineering/Semester I/Lectures/Week 3.md",
     "Excalidraw/Week 3 2023-10-17 11.39.55.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 11.34.53.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 11.32.03.excalidraw.md",
@@ -184,9 +184,6 @@
     "Excalidraw/Week 3 2023-10-17 10.36.38.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 10.32.57.excalidraw.md",
     "Excalidraw/Week 3 2023-10-17 10.27.56.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-17 10.20.17.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-17 10.16.39.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-17 10.08.55.excalidraw.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
     "Chemestry/Semester I/Homeworks",
