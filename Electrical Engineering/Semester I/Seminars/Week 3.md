@@ -6,3 +6,4 @@
 
 ![[Week 3 2023-10-20 10.38.39.excalidraw]]
 ![[Week 3 2023-10-20 10.40.38.excalidraw]]
+![[Week 3 2023-10-20 10.45.02.excalidraw]]
