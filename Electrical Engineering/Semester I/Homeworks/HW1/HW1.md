@@ -41,5 +41,11 @@ So the graph of currents complies with TK1 👍👍👍
 ### Applying TKII
 
 ![[HW1 2023-10-21 17.20.17.excalidraw]]
+Now we have the values for the voltage on the chords.
+Let's draw the graph of voltages
+![[HW1 2023-10-21 20.41.38.excalidraw]]
+Our values also verifies TKII applied on the outer, bigger loop along with any other loops from the graph.
+	3+0-3+4-3-1=0 true
 
-
+### Tellgen's theorem
+Finally we should draw the receiv
