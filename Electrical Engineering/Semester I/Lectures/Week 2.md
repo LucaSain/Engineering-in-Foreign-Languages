@@ -1,4 +1,4 @@
-# Khirkhoff's Theorem, Tellgen's Theorem
+ # Khirkhoff's Theorem, Tellgen's Theorem
 
 **Intensity of electrical current** is caused by moving of electrons thorugh a conductor. 
 The **Intenity** is measured in *Amperes*. i(t) = ∂Q/∂t. For DC the notation is I.

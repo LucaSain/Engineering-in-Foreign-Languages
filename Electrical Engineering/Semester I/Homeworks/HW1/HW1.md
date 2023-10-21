@@ -8,7 +8,7 @@ Further, the number of **independent loops and sections** will be both equal to 
 ![[HW1.excalidraw]]
 ### Let's assign values to the chords
 
-|  Chord 	| Value   	|
+|  Chord 	| Current   |
 |---	|---	|
 |   7	|   3	|
 |   8	|   4	|
@@ -25,7 +25,11 @@ Now that we have computed all the currents using *TKI for sections* we can draw 
 
 ![[HW1 2023-10-21 16.54.02.excalidraw]]
 We have to apply TK1 only for the node (n)=1 since our cut-sets match the other nodes.
-	Node 1: 1+1 -1 -2 +1
+	Node 1: -1-1-1+2-1+2=0 true
+So the graph of currents complies with TK1 👍👍👍
+
+### Applying TKII
+
 
 
 
