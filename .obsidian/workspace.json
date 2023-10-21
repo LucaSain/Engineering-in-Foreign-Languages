@@ -28,6 +28,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65297e2515344b34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -79,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -168,13 +179,13 @@
   },
   "active": "e4853d0589d46179",
   "lastOpenFiles": [
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
-    "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
+    "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+    "Electrical Engineering/Semester I/Lectures/Week 2.md",
+    "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Pasted Image 20231021163340_396.png",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
-    "Electrical Engineering/Semester I/Lectures/Week 1.md",
-    "Electrical Engineering/Semester I/Lectures/Week 2.md",
     "Electrical Engineering/Semester I/Seminars/Week 3.md",
     "Excalidraw/Week 3 2023-10-20 10.45.02.excalidraw.md",
     "conversion.md",

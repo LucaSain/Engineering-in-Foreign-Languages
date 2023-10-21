@@ -1,5 +1,10 @@
 
 ### Initial Graph + Systems of independent loops and cut-sets
+In this example we have 7 nodes and 12 edges.
+
+Thus our **tree** will have N-1 = 6 **twigs**. There will also be B-N+1 = 6 **chords**.
+Further, the number of **independent loops and sections** will be both equal to 6.
+
 ![[HW1.excalidraw]]
 ### Let's assign values to the chords
 
