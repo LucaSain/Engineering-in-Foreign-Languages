@@ -8,14 +8,14 @@ Further, the number of **independent loops and sections** will be both equal to 
 ![[HW1.excalidraw]]
 ### Let's assign values to the chords
 
-|  Chord 	| Current   |
-|---	|---	|
-|   7	|   3	|
-|   8	|   4	|
-|   9	|   5	|
-|   10	|   3	|
-|   11	|   4	|
-|   12	|   2	|
+|  Chord 	| Current   | Voltage |
+|---	|---	|---   |
+|   7	|   3	| 1  |
+|   8	|   4	| 1  |
+|   9	|   5	| 2  |
+|   10	|   3	| 2  |
+|   11	|   4	| -1 |
+|   12	|   2	| -2 |
 
 Now we can generate the graph of currents and voltages using Khirkhoff's laws
 ### Applying TKI
@@ -30,6 +30,6 @@ So the graph of currents complies with TK1 👍👍👍
 
 ### Applying TKII
 
-
+![[HW1 2023-10-21 17.20.17.excalidraw]]
 
 
