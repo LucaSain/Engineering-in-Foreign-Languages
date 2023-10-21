@@ -11,38 +11,23 @@
             "id": "0b740a012f4083b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Electrical Engineering/Semester I/Seminars/Week 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md"
               }
             }
           },
           {
-            "id": "8d88a7bdf826e4a6",
+            "id": "e4853d0589d46179",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Week 3 2023-10-20 10.45.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0f63eae57d905eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 2.md",
+                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 2.md",
+                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 2.md"
+                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md"
               }
             }
           },
@@ -179,13 +164,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f63eae57d905eae",
+  "active": "0b740a012f4083b1",
   "lastOpenFiles": [
-    "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
-    "conversion.md",
+    "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.45.02.excalidraw.md",
     "Electrical Engineering/Semester I/Seminars/Week 3.md",
+    "Electrical Engineering/Semester I/Lectures/Week 2.md",
+    "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "conversion.md",
     "Excalidraw/Week 3 2023-10-20 10.40.38.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.38.39.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.35.08.excalidraw.md",
@@ -195,8 +183,6 @@
     "Excalidraw/Week 3 2023-10-20 10.13.24.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.12.30.excalidraw.md",
     "Excalidraw/Drawing 2023-10-20 10.03.40.excalidraw.md",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
-    "Electrical Engineering/Semester I/Lectures/Week 2.md",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
     "Linear Algebra/Semester I/Lectures/Vector Spaces.md",
     "Excalidraw/Vector Spaces 2023-10-19 18.10.42.excalidraw.md",
@@ -208,7 +194,6 @@
     "Psihopeda",
     "Professional Communication/Semester I/Homeworks/HW1.md",
     "Excalidraw/Week 3 2023-10-17 11.39.55.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-17 11.34.53.excalidraw.md",
     "Images/Pasted image 20231015162006.png",
     "Images",
     "Chemestry/Semester I/Homeworks",
