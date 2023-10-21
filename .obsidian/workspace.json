@@ -11,16 +11,6 @@
             "id": "e4853d0589d46179",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d1c75ba195f5cfc0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
@@ -89,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md"
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md"
               }
             }
           },
@@ -179,11 +168,12 @@
   },
   "active": "e4853d0589d46179",
   "lastOpenFiles": [
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
-    "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+    "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
+    "Excalidraw/HW1 2023-10-21 16.54.02.excalidraw.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Pasted Image 20231021163340_396.png",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
     "Electrical Engineering/Semester I/Seminars/Week 3.md",
