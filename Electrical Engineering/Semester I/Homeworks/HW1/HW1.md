@@ -24,6 +24,8 @@ Now we can generate the graph of currents and voltages using Khirkhoff's laws
 Now that we have computed all the currents using *TKI for sections* we can draw the graph of currents and verify using TKI for each node of the graph.
 
 ![[HW1 2023-10-21 16.54.02.excalidraw]]
-Let's compute the sum of currents:
+We have to apply TK1 only for the node (n)=1 since our cut-sets match the other nodes.
+	Node 1: 1+1 -1 -2 +1
+
 
 
