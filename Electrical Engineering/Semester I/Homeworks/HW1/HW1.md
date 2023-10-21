@@ -6,16 +6,26 @@ Thus our **tree** will have N-1 = 6 **twigs**. There will also be B-N+1 = 6 **ch
 Further, the number of **independent loops and sections** will be both equal to 6.
 
 ![[HW1.excalidraw]]
-### Let's assign values to the chords
+### Let's assign values to the chords and twigs
 
-|  Chord 	| Current   | Voltage |
-|---	|---	|---   |
-|   7	|   3	| 1  |
-|   8	|   4	| 1  |
-|   9	|   5	| 2  |
-|   10	|   3	| 2  |
-|   11	|   4	| -1 |
-|   12	|   2	| -2 |
+|  Chord 	| Current   |
+|---	|---	|
+|   7	|   3	|
+|   8	|   4	|
+|   9	|   5	|
+|   10	|   3	|
+|   11	|   4	|
+|   12	|   2	|
+
+|  Twigs | Voltage   |
+|---	|---	|
+|   1	|   1	|
+|   2	|   1	|
+|   3	|   2	|
+|   4	|   2	|
+|   5	|   -1	|
+|   6	|   -2	|
+
 
 Now we can generate the graph of currents and voltages using Khirkhoff's laws
 ### Applying TKI
