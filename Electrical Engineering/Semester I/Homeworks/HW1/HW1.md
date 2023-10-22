@@ -52,3 +52,5 @@ Finally we should draw the receiver/generator convention graph and check the Tel
 
 Let's map the edges of the graph via the receiver/generator convention.
 ![[HW1 2023-10-22 15.04.09.excalidraw]]
+And let's check the Tellgen's theorem for the whole graph:
+	6+0+20+4+1+1-4-2-4-1-4-9=32-12-2-1-9=
