@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bae8130dc35507d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HW1 2023-10-22 15.04.09.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "6c93ef07f0b54524",
             "type": "leaf",
             "state": {
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HW1 2023-10-22 15.04.09.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HW1 2023-10-22 15.04.09.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HW1 2023-10-22 15.04.09.excalidraw.md"
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md"
               }
             }
           },
@@ -166,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bae8130dc35507d9",
+  "active": "6c93ef07f0b54524",
   "lastOpenFiles": [
+    "Excalidraw/HW1 2023-10-22 15.04.09.excalidraw.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Excalidraw/HW1 2023-10-21 20.41.38.excalidraw.md",
-    "Excalidraw/HW1 2023-10-22 15.04.09.excalidraw.md",
     "Excalidraw/HW1 2023-10-21 16.54.02.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",

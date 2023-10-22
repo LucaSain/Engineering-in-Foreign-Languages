@@ -1,8 +1,8 @@
 
 ### Initial Graph + Systems of independent loops and cut-sets
-In this example we have 7 nodes and 12 edges.
 
-Thus our **tree** will have N-1 = 6 **twigs**. There will also be B-N+1 = 6 **chords**.
+In this example we have 7 nodes and 12 edges.
+Thus,our **tree** will have N-1 = 6 **twigs**. There will also be B-N+1 = 6 **chords**.
 Further, the number of **independent loops and sections** will be both equal to 6.
 
 ![[HW1.excalidraw]]
@@ -50,7 +50,8 @@ Our values also verifies TKII applied on the outer, bigger loop along with any o
 ### Tellgen's theorem
 Finally we should draw the receiver/generator convention graph and check the Tellgen's Theorem for it.
 
-Let's map the edges of the graph via the receiver/generator convention.
+Let's map the edges of the graph on the receiver/generator convention.
 ![[HW1 2023-10-22 15.04.09.excalidraw]]
-And let's check the Tellgen's theorem for the whole graph:
-	6+0+20+4+1+1-4-2-4-1-4-9=32-12-2-1-9=
+And applying the Tellgen's theorem for the whole graph:
+	0-12+20-9-4+6+1+1-2-4-1+4=8-13+8-7+4=16+4-20=0 **true**
+So the graph checks the Tellgen's theorem🥳.
