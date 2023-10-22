@@ -50,3 +50,5 @@ Our values also verifies TKII applied on the outer, bigger loop along with any o
 ### Tellgen's theorem
 Finally we should draw the receiver/generator convention graph and check the Tellgen's Theorem for it.
 
+Let's map the edges of the graph via the receiver/generator convention.
+![[HW1 2023-10-22 15.04.09.excalidraw]]
