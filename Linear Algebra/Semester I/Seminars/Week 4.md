@@ -44,4 +44,15 @@ Show that CV is a complex vector space, with the following operations:
 	c) let z1,z2 from CV and a from C such that (z1+z2)a=z1a+z2a
 	...
 	d) let a,b from C and z from CV such that (ab)z=a(bz):
-	<=> (ab)(v+wi) = a(b((v+wi))) <=> (abv,iabw)=a(bv,+)
+	<=> (ab)(v+wi) = a(b((v+wi))) <=> (abv,iabw)=a(bv+bwi)
+
+### 3
+Find out if the following subsets are vector subspaces in the indicated vector spaces
+1) E = { (x,y) from R^2| ax+by=0} a,b from R, E U= R^2
+	(ideea) if for every a,b in K and v1,v2 from W:
+		aV1 + bV2  is in W => W is a subspace :3
+	let a,b of R and v1,v2 of E v1=(x1,y2), v2=(x2,y2)
+	let's check the propriety
+	
+1) E = { (x,y) from R^2| x+y+a = 0} a,b from R. E U=R^2
+2) 
