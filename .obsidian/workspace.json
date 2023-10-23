@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 1.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 1.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 1.md",
+                "file": "Linear Algebra/Semester I/Seminars/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 1.md"
+                "file": "Linear Algebra/Semester I/Seminars/Week 4.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "6c93ef07f0b54524",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Linear Algebra/Semester I/Seminars/Week 4.md",
+    "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Chemestry/Semester I/Lectures/Week 1.md",
     "Psihopeda/Seminar I.md",
@@ -167,7 +170,6 @@
     "Excalidraw/HW1 2023-10-21 20.41.38.excalidraw.md",
     "Excalidraw/HW1 2023-10-21 16.54.02.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
-    "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Excalidraw/HW1 2023-10-21 17.20.17.excalidraw.md",
     "Pasted Image 20231021203959_526.png",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
@@ -185,8 +187,6 @@
     "Excalidraw/Week 3 2023-10-20 10.24.56.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.15.02.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.13.24.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-20 10.12.30.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-20 10.03.40.excalidraw.md",
     "Linear Algebra/Semester I/Lectures",
     "Psihopeda",
     "Images/Pasted image 20231015162006.png",
