@@ -1,3 +1,4 @@
+### 1 
 Prove that 
 1) K is a vector space over itself, with addition and multiplication in K;
 	a) (K,+) abelian group (K=field)
@@ -30,3 +31,12 @@ Prove that
 	a) (M3(K),+) is abelian group
 	b) let A from M3(K) and a,b from K - scalars => (a+b)A = aA+bA
 	c) let A,B from M3(K) and a from K => (A+B)a = 
+
+### 2
+Let v be a real vector space. We denote by CV the set of formal combinations of type v+iw, where i=√-1
+Show that CV is a complex vector space, with the following operations:
+	Whatever v + iw from C, v1+iw1 and whatever a = a+ib from C
+	(v+iw) + (v1+iw1) =def= (v+v1,i(w+w1))
+	a(v+iw) =def= (av,iaw)
+	1. CV = abelian group
+	2. 
