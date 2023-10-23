@@ -19,4 +19,14 @@ Prove that
 		(v1+v2)a = (x1+y1,x2+y2,x3+y3)a = (a(x1+y1),a(x2+y2),a(x3+y3))=
 		= (ax1,ax2,ax3)+(ay1,ay2,ay3)
 	d) Whatever a,b from K, whatever v from K^3: (ab)v = a(bv)
-		(ab)v=(abx1,abx2,abx3) = a(bx1,bx2,bx3)=(abx1,abx2,abx3)
+		(ab)v=(abx1,abx2,abx3) (o1) 
+		a(bx1,bx2,bx3)=(abx1,abx2,abx3) (o2)
+		o1=o2 True
+	e) It exists 1k from K, whatever v from K^3:
+		1kv = v
+		okv = ov = (ok,ok,ok)
+
+3) M3(K) is vector space, endowed w/ addition and multiplication by scalars form K
+	a) (M3(K),+) is abelian group
+	b) let A from M3(K) and a,b from K - scalars => (a+b)A = aA+bA
+	c) let A,B from M3(K) and a from K => (A+B)a = 
