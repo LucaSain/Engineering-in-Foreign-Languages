@@ -38,5 +38,10 @@ Show that CV is a complex vector space, with the following operations:
 	Whatever v + iw from C, v1+iw1 and whatever a = a+ib from C
 	(v+iw) + (v1+iw1) =def= (v+v1,i(w+w1))
 	a(v+iw) =def= (av,iaw)
-	1. CV = abelian group
-	2. 
+	a) CV = abelian group
+	b) z from CV,  a,b from C => (a+b)z = az+bz
+		(a+b)z=(a+b)(v+wi)=(a+b)v+(a+b)wi=av+bv+awi+bwi= a(v+wi)+b(v+wi)=az+bz
+	c) let z1,z2 from CV and a from C such that (z1+z2)a=z1a+z2a
+	...
+	d) let a,b from C and z from CV such that (ab)z=a(bz):
+	<=> (ab)(v+wi) = a(b((v+wi))) <=> (abv,iabw)=a(bv,+)
