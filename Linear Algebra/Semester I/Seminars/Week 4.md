@@ -53,6 +53,6 @@ Find out if the following subsets are vector subspaces in the indicated vector s
 		aV1 + bV2  is in W => W is a subspace :3
 	let a,b of R and v1,v2 of E v1=(x1,y2), v2=(x2,y2)
 	let's check the propriety
-	
+	(ax1,ay1)+(bx2,by2)=
 1) E = { (x,y) from R^2| x+y+a = 0} a,b from R. E U=R^2
 2) 
