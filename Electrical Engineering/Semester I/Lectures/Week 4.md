@@ -26,4 +26,9 @@ RVS is equivalent to RCS if:
 ## Equivalence of series real voltage sources
 RVS series
 ![[Week 4 2023-10-24 10.48.51.excalidraw]]
+Rs=Sum of Rk
+Es=Sum of Ek
+(orientation matters!!!)
+
+
 

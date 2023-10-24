@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -162,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c93ef07f0b54524",
+  "active": "96c2115602353ef3",
   "lastOpenFiles": [
     "Excalidraw/Week 4 2023-10-24 10.47.29.excalidraw.md",
     "Excalidraw/Week 4 2023-10-24 10.48.51.excalidraw.md",
