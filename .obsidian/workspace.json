@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2135d361d5f492c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Week 4 2023-10-24 10.08.41.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -158,8 +168,11 @@
   },
   "active": "6c93ef07f0b54524",
   "lastOpenFiles": [
-    "Linear Algebra/Semester I/Seminars/Week 4.md",
+    "Excalidraw/Week 4 2023-10-24 10.10.47.excalidraw.md",
+    "Excalidraw/Week 4 2023-10-24 10.08.41.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 4.md",
+    "Excalidraw/Week 4 2023-10-24 10.06.53.excalidraw.md",
+    "Linear Algebra/Semester I/Seminars/Week 4.md",
     "Untitled.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
@@ -184,9 +197,6 @@
     "Excalidraw/Week 3 2023-10-20 10.40.38.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.38.39.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.35.08.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-20 10.28.00.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-20 10.24.56.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-20 10.15.02.excalidraw.md",
     "Linear Algebra/Semester I/Lectures",
     "Psihopeda",
     "Images/Pasted image 20231015162006.png",
