@@ -11,5 +11,14 @@ K=1,B
 ![[Week 4 2023-10-24 10.18.33.excalidraw]]
 ## Lecture II: Equivalence of circuit elements
 ![[Week 4 2023-10-24 10.32.36.excalidraw]]
-Two elements are equivalent to each other if the elem have the same voltage and the same currents at the terminals.
-The two elements are equivalent if they have the same dependence between current and voltage.
+Two elements are **equivalent** to each other if the elements have the same voltage and the same currents at the terminals.
+
+The two elements are **equivalent** if they have the same *dependence* between current and voltage.
+
+In a circuit we can replace one element with another element that's **equivalent** to the first without changing the graph of current and voltages.
+
+### The Theorem of real voltage source and real current source
+
+RVS is equivalent to RCS if:
+![[Week 4 2023-10-24 10.39.47.excalidraw]]
+![[Week 4 2023-10-24 10.42.41.excalidraw]]
