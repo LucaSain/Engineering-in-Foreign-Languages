@@ -42,4 +42,11 @@ Es=Sum of Ek
 ![[Week 4 2023-10-24 11.14.49.excalidraw]]
 #### Particular cases
 1) Ek=0, k=1,n => 1/R = Sum(1/Rk)
-2) 
+2) An ideal voltage source connected in parallel with any kind of element but not an IVS is equivalent with that ideal voltage source.
+3) R1=R2=0 => R=0
+	But E1,E2 IVSs, E1!=E2, but U=E1, U=E2 => E1=E2 -> Contradiction => wrong problem
+	If E1=E2 no contradiction but we cannot compute all the solutions of the circuit
+	WE CANNOT CONNECT IN PARALEL TWO IVS's, real can be^^
+
+## Equivalence of parallel Real Current Sources (RCS)
+![[Week 4 2023-10-24 11.41.09.excalidraw]]
