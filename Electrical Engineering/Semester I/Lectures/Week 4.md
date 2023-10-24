@@ -40,4 +40,6 @@ Es=Sum of Ek
 
 ## Equivalence of real voltage sources connected in parallel
 ![[Week 4 2023-10-24 11.14.49.excalidraw]]
-
+#### Particular cases
+1) Ek=0, k=1,n => 1/R = Sum(1/Rk)
+2) 
