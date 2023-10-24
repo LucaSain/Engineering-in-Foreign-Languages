@@ -30,5 +30,14 @@ Rs=Sum of Rk
 Es=Sum of Ek
 (orientation matters!!!)
 
+#### Particular cases
+1) Ek=0; k=1,n
+	R=SumRk
+	![[Week 4 2023-10-24 11.08.55.excalidraw]]
+2)  Rk=0; k=1,n
+	E=SumRk
+	![[Week 4 2023-10-24 11.10.49.excalidraw]]
 
+## Equivalence of real voltage sources connected in parallel
+![[Week 4 2023-10-24 11.14.49.excalidraw]]
 
