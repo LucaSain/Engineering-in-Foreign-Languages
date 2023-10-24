@@ -22,3 +22,8 @@ In a circuit we can replace one element with another element that's **equivalent
 RVS is equivalent to RCS if:
 ![[Week 4 2023-10-24 10.39.47.excalidraw]]
 ![[Week 4 2023-10-24 10.42.41.excalidraw]]
+![[Week 4 2023-10-24 10.44.31.excalidraw]]
+## Equivalence of series real voltage sources
+RVS series
+![[Week 4 2023-10-24 10.48.51.excalidraw]]
+
