@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "9f08d2b917802840",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Week 4 2023-10-24 10.18.33.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c2135d361d5f492c",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 4.md",
+                "file": "Excalidraw/Week 4 2023-10-24 10.18.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 4.md",
+                "file": "Excalidraw/Week 4 2023-10-24 10.18.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 4.md"
+                "file": "Excalidraw/Week 4 2023-10-24 10.18.33.excalidraw.md"
               }
             }
           },
@@ -166,16 +177,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c93ef07f0b54524",
+  "active": "9f08d2b917802840",
   "lastOpenFiles": [
+    "Electrical Engineering/Semester I/Lectures/Week 4.md",
+    "Excalidraw/Week 4 2023-10-24 10.18.33.excalidraw.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+    "Electrical Engineering/Semester I/Seminars/Week 3.md",
     "Excalidraw/Week 4 2023-10-24 10.10.47.excalidraw.md",
     "Excalidraw/Week 4 2023-10-24 10.08.41.excalidraw.md",
-    "Electrical Engineering/Semester I/Lectures/Week 4.md",
     "Excalidraw/Week 4 2023-10-24 10.06.53.excalidraw.md",
     "Linear Algebra/Semester I/Seminars/Week 4.md",
     "Untitled.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Chemestry/Semester I/Lectures/Week 1.md",
     "Psihopeda/Seminar I.md",
     "Professional Communication/Semester I/Seminars/Week 1.md",
@@ -186,17 +200,14 @@
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
     "Excalidraw/HW1 2023-10-21 17.20.17.excalidraw.md",
     "Pasted Image 20231021203959_526.png",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Pasted Image 20231021172123_828.png",
     "Excalidraw/HW1 2023-10-21 16.27.19.excalidraw.md",
     "Pasted Image 20231021163340_396.png",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
-    "Electrical Engineering/Semester I/Seminars/Week 3.md",
     "Excalidraw/Week 3 2023-10-20 10.45.02.excalidraw.md",
     "conversion.md",
     "Excalidraw/Week 3 2023-10-20 10.40.38.excalidraw.md",
     "Excalidraw/Week 3 2023-10-20 10.38.39.excalidraw.md",
-    "Excalidraw/Week 3 2023-10-20 10.35.08.excalidraw.md",
     "Linear Algebra/Semester I/Lectures",
     "Psihopeda",
     "Images/Pasted image 20231015162006.png",

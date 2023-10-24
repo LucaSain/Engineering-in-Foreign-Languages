@@ -5,3 +5,5 @@ K=1,B
 
 ```Pc=Pg```
 ![[Week 4 2023-10-24 10.10.47.excalidraw]]
+### Example of application
+![[Week 4 2023-10-24 10.18.33.excalidraw]]
