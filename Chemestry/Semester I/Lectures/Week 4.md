@@ -29,3 +29,7 @@ Two types of **semiconductors**:
 
 ### Liquid crystals
 ![[Week 4 2023-10-26 12.54.06.excalidraw]]
+# YESnoYeneeYupnopeYeahNeahYFDA+RATIO-BAND IDK WHAT'S THAT FOR, NICI EU 🚝
+ik ben een jonge meid
+geen haas. om een haas hebben
+ik ben een huis hebben
