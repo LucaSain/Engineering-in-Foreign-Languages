@@ -32,4 +32,10 @@ Two types of **semiconductors**:
 # YESnoYeneeYupnopeYeahNeahYFDA+RATIO-BAND IDK WHAT'S THAT FOR, NICI EU 🚝
 ik ben een jonge meid
 geen haas. om een haas hebben
-ik ben een huis hebben
+ik ben een aas
+dat is 
+
+
+## Thermodynamic system
+Thhermodynamic system: a part of the universe separated by a real or imaginary boundary from the rest of the universe.
+The surroundings comprises the region
