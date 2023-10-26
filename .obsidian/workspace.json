@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "afabc18a6538291e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Week 4 2023-10-26 12.38.05.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "febd3a4fde33ea48",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md",
+                "file": "Excalidraw/Week 4 2023-10-26 12.38.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md",
+                "file": "Excalidraw/Week 4 2023-10-26 12.38.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md"
+                "file": "Excalidraw/Week 4 2023-10-26 12.38.05.excalidraw.md"
               }
             }
           },
@@ -167,10 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "feb21eeea09cdbe8",
+  "active": "afabc18a6538291e",
   "lastOpenFiles": [
-    "Excalidraw/Week 4 2023-10-26 12.17.58.excalidraw.md",
     "Chemestry/Semester I/Lectures/Week 4.md",
+    "Excalidraw/Week 4 2023-10-26 12.38.05.excalidraw.md",
+    "Excalidraw/Week 4 2023-10-26 12.35.35.excalidraw.md",
+    "Excalidraw/Week 4 2023-10-26 12.17.58.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Excalidraw/Week 4 2023-10-24 10.47.29.excalidraw.md",
     "Excalidraw/Week 4 2023-10-24 10.48.51.excalidraw.md",
@@ -193,8 +206,6 @@
     "Linear Algebra/Semester I/Seminars/Week 4.md",
     "Untitled.md",
     "Chemestry/Semester I/Lectures/Week 1.md",
-    "Psihopeda/Seminar I.md",
-    "Professional Communication/Semester I/Seminars/Week 1.md",
     "Pasted Image 20231021203959_526.png",
     "Pasted Image 20231021172123_828.png",
     "Pasted Image 20231021163340_396.png",

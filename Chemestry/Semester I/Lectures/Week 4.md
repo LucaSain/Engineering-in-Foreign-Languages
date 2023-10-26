@@ -14,5 +14,6 @@
 * Fullerene
 	buckminsterfullerenes in full are molecules composed entirely of carbon, taking the for
 
-### Alloys
-#### Thaumcraft irl
+### Principles of semiconductance
+![[Week 4 2023-10-26 12.35.35.excalidraw]]
+![[Week 4 2023-10-26 12.38.05.excalidraw]]
