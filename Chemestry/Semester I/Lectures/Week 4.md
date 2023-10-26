@@ -26,3 +26,6 @@ Two types of **semiconductors**:
 
 **Doping** is done in the range of ppm(parts per milion)concentrations (mg/kg), but may be up to a few g/kg. A semiconductor doped to several g/kg level has a conductivity to that of a poor metal.
 ![[Week 4 2023-10-26 12.49.11.excalidraw]]
+
+### Liquid crystals
+![[Week 4 2023-10-26 12.54.06.excalidraw]]
