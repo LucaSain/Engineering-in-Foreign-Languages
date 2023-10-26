@@ -29,13 +29,24 @@ Two types of **semiconductors**:
 
 ### Liquid crystals
 ![[Week 4 2023-10-26 12.54.06.excalidraw]]
-# YESnoYeneeYupnopeYeahNeahYFDA+RATIO-BAND IDK WHAT'S THAT FOR, NICI EU 🚝
+%% # YESnoYeneeYupnopeYeahNeahYFDA+RATIO-BAND IDK WHAT'S THAT FOR, NICI EU 🚝
 ik ben een jonge meid
 geen haas. om een haas hebben
 ik ben een aas
-dat is 
+dat is %% 
 
 
 ## Thermodynamic system
 Thhermodynamic system: a part of the universe separated by a real or imaginary boundary from the rest of the universe.
 The surroundings comprises the region
+
+### The **kill me** thermodynamic laws
+* legea no 1: daca iti e somn, te culci
+* legea no 2: daca ti-e foame,ti-e foame
+* legea no 3: noi sa fim sanatosi, ca boala vine singura
+* legea no 4: altii au murit si n-au patit nimic
+* legea no 5: cand iti vine sa respiri, inseamna ca nu ai murit
+* legea no 6: mi se limba plimba-n gura
+* legea no 7:nuyes
+* legea no 8: nu venim la chinie
+* legea no 9: respectam legea no 8
