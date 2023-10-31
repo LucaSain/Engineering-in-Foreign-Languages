@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "cf5fdd71b3ad87f6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Seminar III 2023-10-31 17.59.09.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "7e68ba19104a2514",
             "type": "leaf",
             "state": {
@@ -49,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Seminar III 2023-10-31 17.59.09.excalidraw.md",
+                "file": "Psihopeda/Seminar III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Seminar III 2023-10-31 17.59.09.excalidraw.md",
+                "file": "Psihopeda/Seminar III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Seminar III 2023-10-31 17.59.09.excalidraw.md"
+                "file": "Psihopeda/Seminar III.md"
               }
             }
           },
@@ -187,11 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf5fdd71b3ad87f6",
+  "active": "431940574b6913b4",
   "lastOpenFiles": [
+    "Excalidraw/Seminar III 2023-10-31 17.57.08.excalidraw.md",
     "Psihopeda/Seminar III.md",
     "Excalidraw/Seminar III 2023-10-31 17.59.09.excalidraw.md",
-    "Excalidraw/Seminar III 2023-10-31 17.57.08.excalidraw.md",
     "Excalidraw/Seminar III 2023-10-31 17.47.13.excalidraw.md",
     "Excalidraw/Seminar III 2023-10-31 17.46.42.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 5.md",
