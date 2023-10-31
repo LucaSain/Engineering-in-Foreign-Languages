@@ -9,7 +9,15 @@
 2) Caracterul
 	Dimensiunea socio-relationala. Cel mai greu accesibila
 3) Aptitudinile
-	Latura dimensiunea exclusiv operatorie
-1) Creativitatea
+	Latura dimensiunea exclusiv operatorie. Haward Gardner, celel 7 tiprui de inteligenta
+4) Creativitatea
 
+
+Sistemul de personalitate umana exprimate in tipuri de create unana:
+	Joc,invatare,munca, creatie, comunicare
+
+# Factorii dezvoltarii pers umane
+1) Ereditatea -  fac intern. 
+	Premisa naturala adev. pers. umane
+	Genotipul + inf fact de mediu = fenotip
 
