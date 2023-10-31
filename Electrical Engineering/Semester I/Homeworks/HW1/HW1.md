@@ -1,4 +1,4 @@
-
+by Sainenco Luchian, 1112EC IoT sgr2
 ### Initial Graph + Systems of independent loops and cut-sets
 
 In this example we have 7 nodes and 12 edges.
