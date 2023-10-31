@@ -60,3 +60,8 @@ if(R1=R2)=>
 
 ## Two port circuits elements
 ![[Week 5 2023-10-31 11.39.08.excalidraw]]
+1) Voltage controlled voltage source, current controlled voltage source
+2) Voltage controlled current source, current controlled current source
+
+### Voltage controlled voltage source (VCVS)
+![[Week 5 2023-10-31 11.45.33.excalidraw]]
