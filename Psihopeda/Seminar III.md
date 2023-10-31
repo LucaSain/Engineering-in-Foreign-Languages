@@ -20,4 +20,10 @@ Sistemul de personalitate umana exprimate in tipuri de create unana:
 1) Ereditatea -  fac intern. 
 	Premisa naturala adev. pers. umane
 	Genotipul + inf fact de mediu = fenotip
-
+2) Mediul
+	Mediul fizic
+	Mediul Biologic
+	Mediul Socio-cultural
+1) Educatia
+2) droguri
+3) Universitatea de Stiinte Si Tehnologie Politehnica Bucuresti = durere
