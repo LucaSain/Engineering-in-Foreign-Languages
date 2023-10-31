@@ -37,3 +37,26 @@ Triangle=⏫️
 	**R12**=(R1 R2 + R2 R3 + R3 R1)/R3
 	**R23**=(R1 R2 + R2 R3 + R3 R1)/R1
 	**R31**=(R1 R2 + R2 R3 + R3 R1)/R2
+
+## Current Divider Theorem
+![[Week 5 2023-10-31 11.29.50.excalidraw]]
+U=RI=R1R2/(R1+R2) I 
+I1=U/R1 = I R2/(R1+R2)
+I2= I R1/(R1+R2)
+
+if(R1=R2 )=>
+	I1=I2=I/2
+
+## Voltage divider theorem
+![[Week 5 2023-10-31 11.34.53.excalidraw]]
+R=R1+R2
+U=RI=(R1+R2)I =>
+	I=U/R
+U1=R1I=UR1/(R1+R2)
+U2=R2I=UR2/(R1+R2)
+
+if(R1=R2)=>
+	U1=U2=U/2
+
+## Two port circuits elements
+![[Week 5 2023-10-31 11.39.08.excalidraw]]
