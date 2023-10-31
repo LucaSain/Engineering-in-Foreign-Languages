@@ -19,3 +19,5 @@ An ideal current source connected in series with something compatible will enfor
 No loops with ideal voltage sources!
 No sections with only ideal current sources on its branches!
 If we can have a tree with only ideal current sources or ideal voltage source and resistors on the branches the problem is 100% good. 👍 
+
+![[Week 5 2023-10-31 10.33.11.excalidraw]]
