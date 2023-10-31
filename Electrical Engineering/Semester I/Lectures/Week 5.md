@@ -28,3 +28,12 @@ If we can have a tree with only ideal current sources or ideal voltage source an
 Star=🔼
 Triangle=⏫️
 ![[Week 5 2023-10-31 10.49.23.excalidraw]]
+
+⏫️->🔼
+	**R1**=R12 R21/(R12+R23+R31)
+	**R2**=R12 R23/(R12+R23+R31)
+	**R3**=R23 R31/(R12+R23+R31)
+🔼->⏫️
+	**R12**=(R1 R2 + R2 R3 + R3 R1)/R3
+	**R23**=(R1 R2 + R2 R3 + R3 R1)/R1
+	**R31**=(R1 R2 + R2 R3 + R3 R1)/R2
