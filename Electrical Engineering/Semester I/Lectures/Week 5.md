@@ -21,3 +21,10 @@ No sections with only ideal current sources on its branches!
 If we can have a tree with only ideal current sources or ideal voltage source and resistors on the branches the problem is 100% good. 👍 
 
 ![[Week 5 2023-10-31 10.33.11.excalidraw]]
+
+# Lecture 5: The star triangle equivalence. Current and voltage dividers. Controlled sources. Khirchhoff's method.
+
+## Equivalence of star triangle connections of passive branches.
+Star=🔼
+Triangle=⏫️
+![[Week 5 2023-10-31 10.49.23.excalidraw]]
