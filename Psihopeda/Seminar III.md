@@ -1,7 +1,8 @@
 ## 4 tipuri de temperament
 * Flegamtic
-* Colerig
-* 
+* Coleric
+* Sangvinic
+* Melancolic
 
 ## SPU (Sistemul personalitatii umane)
 1) Temperamentul (natura ereditara) - 100% innascut
@@ -47,11 +48,3 @@ Stimul Reactie Raspuns
 ![[Seminar III 2023-10-31 17.57.08.excalidraw]]
 
 ![[Seminar III 2023-10-31 17.59.09.excalidraw]]
-
-un elefant se legana peeeee o panza 
-de PAIANJEN
-si, pentru ca nu se rupeaaa
-a mai venit un elefant
-
-doi elefanti nu au stiut
-LA
