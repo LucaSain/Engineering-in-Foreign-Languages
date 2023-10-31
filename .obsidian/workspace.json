@@ -11,11 +11,9 @@
             "id": "431940574b6913b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Week 5 2023-10-31 10.49.23.excalidraw.md"
               }
             }
           },
@@ -29,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -168,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e521b873f9e1740a",
+  "active": "431940574b6913b4",
   "lastOpenFiles": [
     "Electrical Engineering/Semester I/Lectures/Week 5.md",
     "Excalidraw/Week 5 2023-10-31 10.49.23.excalidraw.md",
