@@ -65,3 +65,5 @@ if(R1=R2)=>
 
 ### Voltage controlled voltage source (VCVS)
 ![[Week 5 2023-10-31 11.45.33.excalidraw]]
+
+### 

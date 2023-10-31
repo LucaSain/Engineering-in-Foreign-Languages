@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "b68517b51ff1191c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Week 5 2023-10-31 11.45.33.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "e521b873f9e1740a",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Week 5 2023-10-31 11.45.33.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Week 5 2023-10-31 11.45.33.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Week 5 2023-10-31 11.45.33.excalidraw.md"
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md"
               }
             }
           },
@@ -177,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b68517b51ff1191c",
+  "active": "431940574b6913b4",
   "lastOpenFiles": [
-    "Electrical Engineering/Semester I/Lectures/Week 5.md",
     "Excalidraw/Week 5 2023-10-31 11.45.33.excalidraw.md",
+    "Electrical Engineering/Semester I/Lectures/Week 5.md",
     "Excalidraw/Week 5 2023-10-31 11.39.08.excalidraw.md",
     "Excalidraw/Week 5 2023-10-31 11.34.53.excalidraw.md",
     "Excalidraw/Week 5 2023-10-31 11.29.50.excalidraw.md",
