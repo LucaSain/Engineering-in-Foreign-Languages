@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd505c8bff760cf8",
+        "id": "1eac380d428b33cd",
         "type": "tabs",
         "children": [
           {
-            "id": "feb21eeea09cdbe8",
+            "id": "431940574b6913b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "484484f38a009dc7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Week 4 2023-10-26 12.49.11.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "febd3a4fde33ea48",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Week 4 2023-10-26 12.17.58.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chemestry/Semester I/Lectures/Week 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,12 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "feb21eeea09cdbe8",
+  "active": "431940574b6913b4",
   "lastOpenFiles": [
-    "Excalidraw/Week 4 2023-10-26 12.54.06.excalidraw.md",
-    "Chemestry/Semester I/Lectures/Week 4.md",
-    "Excalidraw/Week 4 2023-10-26 12.49.11.excalidraw.md",
     "Excalidraw/Week 4 2023-10-26 12.17.58.excalidraw.md",
+    "Excalidraw/Week 4 2023-10-26 12.49.11.excalidraw.md",
+    "Chemestry/Semester I/Lectures/Week 4.md",
+    "Excalidraw/Week 4 2023-10-26 12.54.06.excalidraw.md",
     "Excalidraw/Week 4 2023-10-26 12.38.05.excalidraw.md",
     "Excalidraw/Week 4 2023-10-26 12.35.35.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 1.md",
