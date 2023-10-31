@@ -24,6 +24,19 @@ Sistemul de personalitate umana exprimate in tipuri de create unana:
 	Mediul fizic
 	Mediul Biologic
 	Mediul Socio-cultural
-1) Educatia
-2) droguri
-3) Universitatea de Stiinte Si Tehnologie Politehnica Bucuresti = durere
+3) Educatia
+%% 2) droguri
+3) Universitatea de Stiinte Si Tehnologie Politehnica Bucuresti = durere %%
+
+![[Seminar III 2023-10-31 17.47.13.excalidraw]]
+
+1) Dezvoltare psihica
+2) Crestere / Maturizare
+3) Invatare
+
+NU ai 1.80 in a 3a luna de viata
+Si 10 la Fee
+La groapa
+
+
+
