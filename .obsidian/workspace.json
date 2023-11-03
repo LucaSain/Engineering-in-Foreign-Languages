@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "498d4eb5094482c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Week 5 2023-11-03 10.31.14.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Week 5 2023-11-03 10.31.14.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Seminars/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Week 5 2023-11-03 10.31.14.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Seminars/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Week 5 2023-11-03 10.31.14.excalidraw.md"
+                "file": "Electrical Engineering/Semester I/Seminars/Week 5.md"
               }
             }
           },
@@ -168,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "498d4eb5094482c7",
+  "active": "431940574b6913b4",
   "lastOpenFiles": [
-    "Electrical Engineering/Semester I/Seminars/Week 5.md",
     "Excalidraw/Week 5 2023-11-03 10.31.14.excalidraw.md",
+    "Electrical Engineering/Semester I/Seminars/Week 5.md",
     "Excalidraw/Week 5 2023-11-03 10.16.37.excalidraw.md",
     "Excalidraw/Week 5 2023-11-03 10.14.43.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 4.md",
