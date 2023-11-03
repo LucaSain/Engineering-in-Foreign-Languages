@@ -27,3 +27,5 @@ An Arnold is the currents through edges where there is no current source.
 [2]:1*I3+1*I1=8-2+3-6
 [3]:1*I2+2*2+1*I3+Uj6=0
 ```
+
+![[Week 5 2023-11-03 11.10.48.excalidraw]]
