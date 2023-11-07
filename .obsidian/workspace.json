@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical Engineering/Semester I/Seminars/Week 5.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Electrical Engineering/Semester I/Lectures/Week 3.md"
               }
             }
           },
@@ -178,10 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "783da4a43ec7cf39",
+  "active": "431940574b6913b4",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Electrical Engineering/Semester I/Seminars/Week 5.md",
+    "Untitled 1.md",
     "Excalidraw/Week 5 2023-11-03 11.10.48.excalidraw.md",
     "Excalidraw/Week 5 2023-11-03 10.31.14.excalidraw.md",
     "Excalidraw/Week 5 2023-11-03 10.16.37.excalidraw.md",
@@ -202,7 +201,6 @@
     "Excalidraw/Week 5 2023-10-31 10.49.23.excalidraw.md",
     "Excalidraw/Week 5 2023-10-31 10.33.11.excalidraw.md",
     "Excalidraw/Week 5 2023-10-31 10.12.06.excalidraw.md",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Excalidraw/Week 4 2023-10-26 12.17.58.excalidraw.md",
     "Excalidraw/Week 4 2023-10-26 12.49.11.excalidraw.md",
     "Chemestry/Semester I/Lectures/Week 4.md",
