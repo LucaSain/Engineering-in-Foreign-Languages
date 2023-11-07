@@ -23,8 +23,12 @@
             "id": "e77e2c5e8d910cc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -178,9 +182,9 @@
   },
   "active": "431940574b6913b4",
   "lastOpenFiles": [
-    "Electrical Engineering/Semester I/Lectures/Week 5.md",
     "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
+    "Electrical Engineering/Semester I/Lectures/Week 5.md",
     "Electrical Engineering/Semester I/Seminars/Week 5.md",
     "Untitled 1.md",
     "Excalidraw/Week 5 2023-11-03 11.10.48.excalidraw.md",
