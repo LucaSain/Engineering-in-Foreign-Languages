@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9d0fc3f28fd4dd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tinder pt ONG-uri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "783da4a43ec7cf39",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+                "file": "Tinder pt ONG-uri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+                "file": "Tinder pt ONG-uri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md"
+                "file": "Tinder pt ONG-uri.md"
               }
             }
           },
@@ -168,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e77e2c5e8d910cc6",
+  "active": "9d0fc3f28fd4dd4a",
   "lastOpenFiles": [
+    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
+    "Tinder pt ONG-uri.md",
     "Professional Communication/Semester I/Seminars/Week 1.md",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
-    "Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Electrical Engineering/Semester I/Lectures/Week 5.md",
     "Electrical Engineering/Semester I/Seminars/Week 5.md",
     "Untitled 1.md",
@@ -195,7 +209,6 @@
     "Excalidraw/Week 5 2023-10-31 10.49.23.excalidraw.md",
     "Excalidraw/Week 5 2023-10-31 10.33.11.excalidraw.md",
     "Excalidraw/Week 5 2023-10-31 10.12.06.excalidraw.md",
-    "Excalidraw/Week 4 2023-10-26 12.17.58.excalidraw.md",
     "Pasted Image 20231021203959_526.png",
     "Pasted Image 20231021172123_828.png",
     "Pasted Image 20231021163340_396.png",
