@@ -8,4 +8,6 @@
 	# Problema: financiar. E complicat.
 3.  Invatam oameni sa gateasca
 4. Aplicatie conectat ong uri
-5. 
+5.  Paduri exploration
+6. Workshop reciclare
+7. 
