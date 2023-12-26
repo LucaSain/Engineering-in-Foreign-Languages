@@ -23,9 +23,11 @@
             "id": "0fa8f8917eb95b5b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Week 10 2023-12-05 10.04.09.excalidraw.md"
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Week 10 2023-12-05 10.04.09.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Week 10 2023-12-05 10.04.09.excalidraw.md",
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Week 10 2023-12-05 10.04.09.excalidraw.md"
+                "file": "Electrical Engineering/Semester I/Lectures/Week 5.md"
               }
             }
           },
@@ -169,15 +171,16 @@
   },
   "active": "0fa8f8917eb95b5b",
   "lastOpenFiles": [
+    "Electrical Engineering/Semester I/Lectures/Week 4.md",
+    "Electrical Engineering/Semester I/Lectures/Week 1.md",
+    "Excalidraw/Week 10 2023-12-05 10.04.09.excalidraw.md",
     "Pasted Image 20231205100514_720.png",
     "Electrical Engineering/Semester I/Lectures/Week 10.md",
-    "Excalidraw/Week 10 2023-12-05 10.04.09.excalidraw.md",
     "Untitled 2.md",
     "Programming Languages/Semester I.md",
     "Professional Communication/Semester I/Seminars/Week 1.md",
     "proiect team5.md",
     "Idei proiecte.md",
-    "Electrical Engineering/Semester I/Lectures/Week 4.md",
     "Electrical Engineering/Semester I/Lectures/Week 3.md",
     "Tinder pt ONG-uri.md",
     "Excalidraw/Tinder pt ONG-uri 2023-11-10 13.59.11.excalidraw.md",
@@ -190,7 +193,6 @@
     "Excalidraw/Week 5 2023-11-03 10.16.37.excalidraw.md",
     "Excalidraw/Week 5 2023-11-03 10.14.43.excalidraw.md",
     "Electrical Engineering/Semester I/Lectures/Week 2.md",
-    "Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Psihopeda/Seminar III.md",
     "Excalidraw/Seminar III 2023-10-31 17.59.09.excalidraw.md",
     "Excalidraw/Seminar III 2023-10-31 17.57.08.excalidraw.md",
@@ -214,7 +216,6 @@
     "Images/Screenshot 2023-10-15 at 16.21.09.png",
     "Images/Screenshot 2023-10-10 at 11.43.12.png",
     "Images/Screenshot 2023-10-10 at 11.42.48.png",
-    "Images/Screenshot 2023-10-10 at 11.27.16.png",
     "Untitled.canvas"
   ]
 }
