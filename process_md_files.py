@@ -8,8 +8,8 @@ def process_directory(directory):
     
     for root, dirs, files in os.walk(directory):
         for file in files:
+            file_path = os.path.join(root, file)
             if file.endswith(".md"):
-                file_path = os.path.join(root, file)
                 directory_name = os.path.splitext(file)[0]
                 new_directory = os.path.join(root, directory_name)
                 new_file_path = os.path.join(new_directory, "page.mdx")
