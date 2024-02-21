@@ -22,7 +22,7 @@ jobs:
       run: |
         rm -rf compiled && mkdir compiled
         ./obsidian-export_Linux-x86_64.bin ./ ./compiled
-        ls -l ./compiled
+        ls -l ./compiled/"Semester 2"
       
     # - name: Push to Another Repo
     #   env:
