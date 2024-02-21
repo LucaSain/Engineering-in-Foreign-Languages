@@ -1,0 +1,38 @@
+name: Push to Another Repo
+
+on:
+  push:
+    branches:
+      - main  # Adjust this to your main branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Install obsidian-export
+      run: |
+        wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
+        chmod +x obsidian-export_Linux-x86_64.bin
+
+    - name: Run obsidian-export
+      run: |
+        rm -rf compiled && mkdir compiled
+        ./obsidian-export_Linux-x86_64.bin ./ ./compiled
+        ls -l ./compiled
+      
+    # - name: Push to Another Repo
+    #   env:
+    #     PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+    #   run: |
+    #     git clone https://<username>:<token>@github.com/LucaSain/portfolio-new.git
+    #     cd portfolio-new
+    #     git checkout main
+    #     # Copy files from source repository
+    #     cp -r ../<source-folder> .
+    #     git add .
+    #     git commit -m "Pushed from source repository"
+    #     git push origin <branch>
