@@ -13,6 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
     - name: Install obsidian-export
       run: |
         wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
@@ -26,37 +31,8 @@ jobs:
 
     - name: Process Markdown files
       run: |
-        #!/bin/bash
-        
-        process_directory() {
-            local dir="$1"
-            local md_files=( "$dir"/*.md )  # Get all .md files in the directory
-
-            # Loop through each .md file
-            for md_file in "${md_files[@]}"; do
-                if [ -f "$md_file" ]; then  # Check if it's a file
-                    file_name=$(basename "$md_file")
-                    file_name_no_ext="${file_name%.*}"  # Get filename without extension
-                    new_dir="$dir/$file_name_no_ext"
-
-                    # Create new directory if it doesn't exist
-                    mkdir -p "$new_dir"
-
-                    # Copy the content of the markdown file to page.md
-                    cp "$md_file" "$new_dir/page.md"
-                fi
-            done
-
-            # Recursively process subdirectories
-            local subdirs=( "$dir"/*/ )
-            for subdir in "${subdirs[@]}"; do
-                process_directory "$subdir"
-            done
-        }
-
-        process_directory ./compiled
-        ls -la ./compiled
-      
+        python3 ./process_md_files.py
+   
     - name: Push to Portfolio Repo
       env:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
