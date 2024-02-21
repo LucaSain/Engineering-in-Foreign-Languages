@@ -1,5 +1,6 @@
 import os
 import shutil
+import re
 
 def process_directory(directory):
     img_dir = os.path.join(directory, "img")
