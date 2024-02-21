@@ -12,7 +12,7 @@ def process_directory(directory):
                 file_path = os.path.join(root, file)
                 directory_name = os.path.splitext(file)[0]
                 new_directory = os.path.join(root, directory_name)
-                new_file_path = os.path.join(new_directory, "page.md")
+                new_file_path = os.path.join(new_directory, "page.mdx")
 
                 # Create a new directory if it doesn't exist
                 if not os.path.exists(new_directory):
