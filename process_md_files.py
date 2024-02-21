@@ -12,17 +12,24 @@ def process_directory(directory):
         for file in files:
             file_path = os.path.join(root, file)
             if file.endswith(".md"):
+                # For Markdown files, create a new directory and copy the file to it
                 directory_name = os.path.splitext(file)[0]
-                new_directory = os.path.join(root, directory_name)
-                new_file_path = os.path.join(new_directory, "page.mdx")
+                new_directory = os.path.join(directory, directory_name)
+                new_file_path = os.path.join(new_directory, "page.md")
 
-                # Create a new directory if it doesn't exist
                 if not os.path.exists(new_directory):
                     os.makedirs(new_directory)
+                
+                # Read the content of the markdown file
+                with open(file_path, 'r') as f:
+                    content = f.read()
+                
+                # Update image links in the markdown content
+                updated_content = re.sub(r'\((.*?)(?:/img/)?(.*?)\.(?:png|jpg|mp4)\)', r'(/img/\2.\1)', content)
 
-                # Copy the content of the markdown file to page.md
-                shutil.copy(file_path, new_file_path)
-                os.remove(file_path)
+                # Write the updated content back to the page.md file
+                with open(new_file_path, 'w') as f:
+                    f.write(updated_content)
                 
             elif file.endswith((".png", ".jpg", ".mp4")):
                 # For .png and .jpg files, copy them to the img directory
