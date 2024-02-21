@@ -16,6 +16,7 @@ def process_directory(directory):
 
                 # Copy the content of the markdown file to page.md
                 shutil.copy(file_path, new_file_path)
+                os.remove(file_path)
 
 if __name__ == "__main__":
     process_directory("./compiled")
