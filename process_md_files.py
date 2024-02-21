@@ -13,24 +13,26 @@ def process_directory(directory):
         for file in files:
             file_path = os.path.join(root, file)
             if file.endswith(".md"):
-                # For Markdown files, create a new directory and copy the file to it
+                # For Markdown files, read content, replace image links, and rewrite the file
+                with open(file_path, "r") as f:
+                    content = f.read()
+
+                # Replace image links with /<filename> pattern
+                content = re.sub(r'\(!\[([^\]]+)\]\(([^)]+)\)\)', r'(![\1](/\2))', content)
+
+                # Write modified content back to the file
+                with open(file_path, "w") as f:
+                    f.write(content)
+
+                # Create a new directory and copy the file to it
                 directory_name = os.path.splitext(file)[0]
                 new_directory = os.path.join(directory, directory_name)
                 new_file_path = os.path.join(new_directory, "page.md")
 
                 if not os.path.exists(new_directory):
                     os.makedirs(new_directory)
-                
-                # Read the content of the markdown file
-                with open(file_path, 'r') as f:
-                    content = f.read()
-                
-                # Update image links in the markdown content
-                updated_content = re.sub(r'\((.*?)(?:/img/)?(.*?)\.(?:png|jpg|mp4)\)', r'(/img/\2.\1)', content)
-
-                # Write the updated content back to the page.md file
-                with open(new_file_path, 'w') as f:
-                    f.write(updated_content)
+                shutil.copy(file_path, new_file_path)
+                os.remove(filepath)
                 
             elif file.endswith((".png", ".jpg", ".mp4")):
                 # For .png and .jpg files, copy them to the img directory
