@@ -42,7 +42,7 @@ jobs:
         git clone https://LucaSain:$PAT_TOKEN@github.com/LucaSain/portfolio-new.git
         cd portfolio-new
         git checkout main
-        cp -r ../compiled ./src/app/blog
+        cp -r ../compiled ./src/app/courses
         git add .
         git commit -m "Pushed from source repository"
         git push origin main
