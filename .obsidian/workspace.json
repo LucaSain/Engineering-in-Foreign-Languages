@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9c609c32409c3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester2/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester2/welcome.md",
+                "file": "semester2/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester2/welcome.md",
+                "file": "semester2/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester2/welcome.md"
+                "file": "semester2/test.md"
               }
             }
           },
@@ -155,12 +168,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "400686bf9894f172",
+  "active": "c9c609c32409c3ad",
   "lastOpenFiles": [
-    "semester2/Screenshot 2024-02-21 at 16.34.32.png",
+    "Screenshot 2024-02-21 at 16.34.32.png",
+    "Screenshot 2024-02-21 at 17.02.39.png",
     "semester2/welcome.md",
+    "semester2/test.md",
     "semester2/electrotehnics2/Lecture_1.md",
-    "semester2/welcome.md",
     "semester2/electrotehnics2/Screenshot 2024-02-21 at 14.38.29.png",
     "process_md_files.py",
     "semester2/electrotehnics2",
@@ -202,7 +216,6 @@
     "Semester 1/Images/Screenshot 2023-10-10 at 11.27.16.png",
     "Semester 1/Images/Screenshot 2023-10-10 at 11.13.30.png",
     "Semester 1/Images/Screenshot 2023-10-10 at 10.48.21.png",
-    "Semester 1/Images/Screenshot 2023-10-10 at 10.34.59.png",
     "Untitled.canvas"
   ]
 }
