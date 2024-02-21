@@ -7,6 +7,8 @@ def process_directory(directory):
         os.makedirs(img_dir)
     
     for root, dirs, files in os.walk(directory):
+         if root == img_dir:
+            continue
         for file in files:
             file_path = os.path.join(root, file)
             if file.endswith(".md"):
