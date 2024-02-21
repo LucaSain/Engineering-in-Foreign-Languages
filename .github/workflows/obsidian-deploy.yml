@@ -28,6 +28,8 @@ jobs:
       env:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
+        git config --global user.email "lucasainenco2@gmail.com"
+        git config --global user.name "LucaSain"
         git clone https://LucaSain:$PAT_TOKEN@github.com/LucaSain/portfolio-new.git
         cd portfolio-new
         git checkout main
