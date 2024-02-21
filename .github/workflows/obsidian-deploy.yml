@@ -24,15 +24,14 @@ jobs:
         ./obsidian-export_Linux-x86_64.bin ./ ./compiled
         ls -l ./compiled/"Semester 2"
       
-    # - name: Push to Another Repo
-    #   env:
-    #     PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-    #   run: |
-    #     git clone https://<username>:<token>@github.com/LucaSain/portfolio-new.git
-    #     cd portfolio-new
-    #     git checkout main
-    #     # Copy files from source repository
-    #     cp -r ../<source-folder> .
-    #     git add .
-    #     git commit -m "Pushed from source repository"
-    #     git push origin <branch>
+    - name: Push to Portfolio
+      env:
+        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+      run: |
+        git clone https://LucaSain:$PAT_TOKEN@github.com/LucaSain/portfolio-new.git
+        cd portfolio-new
+        git checkout main
+        cp -r ../compiled ./blog
+        git add .
+        git commit -m "Pushed from source repository"
+        git push origin main
