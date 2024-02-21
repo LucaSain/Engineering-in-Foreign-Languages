@@ -1,5 +1,18 @@
 import os
 import shutil
+import re
+
+def replace_image_urls(text):
+   regex = r"!\[(.*?)\]\((.*?)\)"  # Regex to match image entries
+
+   def replacement(match):
+       alt_text, original_url = match.groups()
+       filename = original_url.split("/")[-1]  # Extract filename from original URL
+       new_url = f"/{filename}"  # Construct the new URL with leading slash
+       return f"![{alt_text}]({new_url})"  # Build the modified image tag
+
+   modified_text = re.sub(regex, replacement, text)
+   return modified_text
 
 def process_directory(directory):
     img_dir = os.path.join(directory, "img")
@@ -12,6 +25,14 @@ def process_directory(directory):
         for file in files:
             file_path = os.path.join(root, file)
             if file.endswith(".md"):
+
+                with open(file_path, "r") as f:
+                    content = f.read()
+
+                content = replace_image_urls(content)
+                with open(file_path, "w") as f:
+                    f.write(content)
+                
                 directory_name = os.path.splitext(file)[0]
                 new_directory = os.path.join(root, directory_name)
                 new_file_path = os.path.join(new_directory, "page.mdx")
