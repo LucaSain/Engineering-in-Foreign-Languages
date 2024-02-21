@@ -32,7 +32,7 @@ def process_directory(directory):
                 if not os.path.exists(new_directory):
                     os.makedirs(new_directory)
                 shutil.copy(file_path, new_file_path)
-                os.remove(filepath)
+                os.remove(file_path)
                 
             elif file.endswith((".png", ".jpg", ".mp4")):
                 # For .png and .jpg files, copy them to the img directory
