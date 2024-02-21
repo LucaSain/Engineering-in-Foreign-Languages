@@ -18,6 +18,5 @@ def process_directory(directory):
                 shutil.copy(file_path, new_file_path)
 
 if __name__ == "__main__":
-    directory = input("Enter the directory path: ")
-    process_directory(directory)
+    process_directory("./compiled")
     print("Markdown files processed successfully.")
