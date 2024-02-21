@@ -1,6 +1,5 @@
 import os
 import shutil
-import re
 
 def process_directory(directory):
     img_dir = os.path.join(directory, "img")
@@ -13,24 +12,15 @@ def process_directory(directory):
         for file in files:
             file_path = os.path.join(root, file)
             if file.endswith(".md"):
-                # For Markdown files, read content, replace image links, and rewrite the file
-                with open(file_path, "r") as f:
-                    content = f.read()
-
-                # Replace image links with /<filename> pattern
-                content = re.sub(r'\(!\[([^\]]+)\]\(([^)]+)\)\)', r'(![\1](/\2))', content)
-
-                # Write modified content back to the file
-                with open(file_path, "w") as f:
-                    f.write(content)
-
-                # Create a new directory and copy the file to it
                 directory_name = os.path.splitext(file)[0]
-                new_directory = os.path.join(directory, directory_name)
-                new_file_path = os.path.join(new_directory, "page.md")
+                new_directory = os.path.join(root, directory_name)
+                new_file_path = os.path.join(new_directory, "page.mdx")
 
+                # Create a new directory if it doesn't exist
                 if not os.path.exists(new_directory):
                     os.makedirs(new_directory)
+
+                # Copy the content of the markdown file to page.md
                 shutil.copy(file_path, new_file_path)
                 os.remove(file_path)
                 
