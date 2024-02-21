@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Electrotehnics 2/Course 1.md",
+                "file": "semester2/electrotehnics2/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Index.md",
+                "file": "semester2/electrotehnics2/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Index.md",
+                "file": "semester2/electrotehnics2/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/Index.md",
+                "file": "semester2/electrotehnics2/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Index.md"
+                "file": "semester2/electrotehnics2/Lecture 1.md"
               }
             }
           },
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +168,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "521521e5255e3da1",
+  "active": "400686bf9894f172",
   "lastOpenFiles": [
-    "Semester 2/Electrotehnics 2/Course 1.md",
-    "Semester 2/Index.md",
+    "semester2/Index.md",
+    "semester2/electrotehnics2/Lecture 1.md",
     "process_md_files.py",
     "Screenshot 2024-02-21 at 14.38.29.png",
-    "Semester 2/Electrotehnics 2",
-    "Semester 2",
+    "semester2/electrotehnics2",
+    "semester2",
     "Semester 1/Electrical Engineering/Semester I/Homeworks/HW1/HW1.md",
     "Semester 1/Electrical Engineering/Semester I/Homeworks/HW1/HW1.excalidraw.md",
     "Semester 1/Professional Communication/Semester I/Seminars/Week 1.md",
