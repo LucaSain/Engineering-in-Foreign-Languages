@@ -1,4 +1,0 @@
-![[Screenshot 2024-02-21 at 16.34.32.png]]
-
-allright
-everything is okay

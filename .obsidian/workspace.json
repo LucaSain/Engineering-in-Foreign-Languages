@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester2/welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9c609c32409c3ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester2/test.md",
+                "file": "Professional Communication/Seminar 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester2/test.md",
+                "file": "Professional Communication/Seminar 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester2/test.md",
+                "file": "Professional Communication/Seminar 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester2/test.md"
+                "file": "Professional Communication/Seminar 1.md"
               }
             }
           },
@@ -155,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +157,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9c609c32409c3ad",
+  "active": "521521e5255e3da1",
   "lastOpenFiles": [
+    "Professional Communication/Seminar 1.md",
+    "Professional Communication",
+    "semester2/test.md",
     "Screenshot 2024-02-21 at 16.34.32.png",
     "Screenshot 2024-02-21 at 17.02.39.png",
     "semester2/welcome.md",
-    "semester2/test.md",
     "semester2/electrotehnics2/Lecture_1.md",
     "semester2/electrotehnics2/Screenshot 2024-02-21 at 14.38.29.png",
     "process_md_files.py",
@@ -204,10 +195,8 @@
     "Semester 1/Operating Systems/Semester I/Seminars",
     "Semester 1/Operating Systems/Semester I/Lectures",
     "Semester 1/Operating Systems/Semester I/Homeworks",
-    "Semester 1/Linear Algebra/Semester I/Seminars",
     "Semester 1/Psihopeda/Seminar III.md",
     "Semester 1/Psihopeda/Seminar I.md",
-    "Semester 1/Programming Languages/Semester I.md",
     "Semester 1/Images/Screenshot 2023-10-16 at 10.59.21.png",
     "Semester 1/Images/Screenshot 2023-10-16 at 10.24.09.png",
     "Semester 1/Images/Screenshot 2023-10-15 at 16.21.09.png",
@@ -215,7 +204,6 @@
     "Semester 1/Images/Screenshot 2023-10-10 at 11.42.48.png",
     "Semester 1/Images/Screenshot 2023-10-10 at 11.27.16.png",
     "Semester 1/Images/Screenshot 2023-10-10 at 11.13.30.png",
-    "Semester 1/Images/Screenshot 2023-10-10 at 10.48.21.png",
     "Untitled.canvas"
   ]
 }
