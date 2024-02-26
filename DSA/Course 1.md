@@ -115,8 +115,18 @@ public:
 	double re;
 	double im;
 	//code further
+private: 
+	//more stuff
+//constructor 
+	thing(){
+	// constructive code here
+	}
+//destructor
+	tilde_thing(){
+	// desctructive code here
+	}
 }
 ```
 
-Stuff in structs is public bydefult
-Stuff in classes is private  
+Stuff in structs is public by default
+Stuff in classes is private by default 
