@@ -18,8 +18,13 @@ Similar to Java interfaces
 # Introduction to C/C++
 * Similar to Java
 * The basic structure of a C program
-Inclusion of headers
-```c++
+	Inclusion of headers
+	Definition of types/classes
+	Declaration of global variables
+	Definition of functions
+	The main functions
+*Example here*
+```c
 #include <stuff>
 int a,b,c;
 int main(){
@@ -30,7 +35,22 @@ int main(){
 	return 0;
 }
 ```
-Definition of types/classes
-Declaration of global variables
-Definition of functions
-The main functions
+
+### Transition to C++
+C++ is a superset of language C.
+*c code can be compiled by a c++ compiler, but the c cannot compile c++ code*
+c follows procedural programming, no OOP.
+c++ can do both 💪
+c++: namespaces
+
+*Example here*
+```c++
+#include <iostream>
+using namespace std;
+int main(){
+	int a;
+	cin>>a;
+	cout<<a;
+	return 0;
+}
+```
