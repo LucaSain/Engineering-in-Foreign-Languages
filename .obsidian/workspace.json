@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "445610bfaa664cdf",
@@ -159,7 +158,9 @@
   },
   "active": "521521e5255e3da1",
   "lastOpenFiles": [
+    "Excalidraw/Seminar 1 2024-02-26 10.23.57.excalidraw.md",
     "Professional Communication/Seminar 1.md",
+    "Excalidraw",
     "Professional Communication",
     "semester2/test.md",
     "Screenshot 2024-02-21 at 16.34.32.png",
@@ -194,7 +195,6 @@
     "Semester 1/Professional Communication/Semester I/Homeworks",
     "Semester 1/Operating Systems/Semester I/Seminars",
     "Semester 1/Operating Systems/Semester I/Lectures",
-    "Semester 1/Operating Systems/Semester I/Homeworks",
     "Semester 1/Psihopeda/Seminar III.md",
     "Semester 1/Psihopeda/Seminar I.md",
     "Semester 1/Images/Screenshot 2023-10-16 at 10.59.21.png",
