@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Course 1.md",
+                "file": "DSA/Course Informations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Course 1.md",
+                "file": "DSA/Course Informations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Course 1.md",
+                "file": "DSA/Course Informations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Course 1.md"
+                "file": "DSA/Course Informations.md"
               }
             }
           },
@@ -159,7 +159,7 @@
   "active": "251e6f9dafc2ff44",
   "lastOpenFiles": [
     "Professional Communication/Seminar 1.md",
-    "DSA/Course 1.md",
+    "DSA/Course Informations.md",
     "DSA",
     "Excalidraw/Seminar 1 2024-02-26 10.23.57.excalidraw.md",
     "Excalidraw",

@@ -20,3 +20,22 @@
 *happens in may*
 You must write an article about the project and a powerpoint. You can work in groups. Each paper must have a coord. prof.
 _good shit_: you can impress teachers form further years
+
+### Password for powerpoints: *ondina*
+
+# References
+See moodle
+
+# Objectives
++ Design and implementation of fundamental data structures in C/C++
+	+ Data structures are a set of constructs used to solve a problem.
++ Introduction to C/C++
++ Abstract data types vs Data structures
++ Stack
++ Queue
++ Linked lists
++ Graphs
++ Hash tables
++ Binary trees
++ Binary search trees
++ Heaps
