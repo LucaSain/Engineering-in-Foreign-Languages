@@ -93,3 +93,30 @@ int main(){
 
 ![img](https://www.sitesbay.com/cpp/images/data-type-in-cpp.jpg)
 
+### Datatype: struct
+```c++
+struct name{
+	//structure here
+};
+
+struct prof{
+	int age;
+	int sallary;
+}
+//using typedef
+typedef struct student Student{
+// struct def further
+```
+
+### Datatype: classes and objects
+```c++
+class thing{
+public:
+	double re;
+	double im;
+	//code further
+}
+```
+
+Stuff in structs is public bydefult
+Stuff in classes is private  
