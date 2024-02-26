@@ -54,3 +54,42 @@ int main(){
 	return 0;
 }
 ```
+
+**Passing by value**
+```c++
+#include <iostream>
+using namespace std;
+void doShit(int val){
+	val=0;
+	return;
+}
+
+int main(){
+	int a;
+	cin>>a;
+	doShit(a);
+	cout<<a; //expects the value of a to not change
+	return 0;
+}
+```
+
+**Passing by reference**
+```c++
+#include <iostream>
+using namespace std;
+void doShit(int &val){
+	val=0;
+	return;
+}
+
+int main(){
+	int a;
+	cin>>a;
+	doShit(a);
+	cout<<a; //expects the value of a to be 0
+	return 0;
+}
+```
+
+![img](https://www.sitesbay.com/cpp/images/data-type-in-cpp.jpg)
+
