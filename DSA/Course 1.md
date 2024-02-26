@@ -1,4 +1,4 @@
-> Maria Iuliana Dascalu
+> Maria-Iuliana Dascalu
 > mariaiuliana.dascalu@gmail.com
 
 # Grading
@@ -11,4 +11,12 @@
 	+ Scientific session (0.5 participation, award 1 pt)
 	+ Course qs (0.1-0.25 pts/question)
 	+ Involvement in FILS events/ programming contests (0.5 questions)
-	+ 
+	+ Pentalities (if you are asked smth during the course and you do not know)
+
+*Conditions*: final grade >= 4.5, E1 >= 4.5
+*Conditions for the final exam*: E2+E3+E4+E5 >= 4.5 (out of 10) and presence in at least 10 labs.
+
+#### Scientific session
+*happens in may*
+You must write an article about the project and a powerpoint. You can work in groups. Each paper must have a coord. prof.
+_good shit_: you can impress teachers form further years
