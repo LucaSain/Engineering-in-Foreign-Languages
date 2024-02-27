@@ -22,3 +22,8 @@ Dot product:
 $$\displaylines{\vec{a}=a_x\vec{i}+a_y\vec{j} \\ \vec{b}=b_x\vec{i}+b_y\vec{j} \\ \vec{a} \cdot \vec{b}=(a_x+b_x)\vec{i}+(a_y+b_y)\vec{j}\\ or \\ \vec{a} \cdot \vec{b}=||\vec{a}||\space||\vec{b}||\space \cos(\angle{\vec{a},\vec{b}})}$$
 
 ![[Seminar 2 2024-02-27 17.30.43.excalidraw]]
+
+_note: dot product is a bilinear form_
+
+Cross product
+$$\displaylines{\begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_x & a_ & x_c \\ y_a && \end{vmatrix}\\ and \\ ||\vec{a} \times \vec{b}||=||\vec{a}||\space||\vec{b}||\space \cos(\angle{\vec{a},\vec{b}})}$$
