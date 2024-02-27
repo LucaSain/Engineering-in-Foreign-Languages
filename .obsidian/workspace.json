@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "251e6f9dafc2ff44",
+            "id": "5b13ff6cb670c808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Course Informations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eefbad8aff21662f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Course 1.md",
+                "file": "FEE2/Seminar 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Course 1.md",
+                "file": "FEE2/Seminar 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Course 1.md",
+                "file": "FEE2/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Course 1.md"
+                "file": "FEE2/Seminar 2.md"
               }
             }
           },
@@ -169,12 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eefbad8aff21662f",
+  "active": "5b13ff6cb670c808",
   "lastOpenFiles": [
-    "().md",
-    "DSA/Course 1.md",
-    "DSA/Course Informations.md",
     "Professional Communication/Seminar 1.md",
+    "DSA/Course Informations.md",
+    "DSA/Course 1.md",
+    "FEE2/Seminar 2.md",
+    "FEE2",
+    "().md",
     "DSA",
     "Excalidraw/Seminar 1 2024-02-26 10.23.57.excalidraw.md",
     "Excalidraw",
@@ -206,10 +195,8 @@
     "Semester 1/Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Semester 1/Electrical Engineering/Semester I/Homeworks/HW1",
     "Semester 1/Chemestry/Semester I/Seminars/Week 3.md",
-    "Semester 1/Chemestry/Semester I/Lectures/Week 4.md",
     "Semester 1/Professional Communication/Semester I/Seminars",
     "Semester 1/Professional Communication/Semester I/Homeworks",
-    "Semester 1/Operating Systems/Semester I/Seminars",
     "Semester 1/Images/Screenshot 2023-10-16 at 10.59.21.png",
     "Semester 1/Images/Screenshot 2023-10-16 at 10.24.09.png",
     "Semester 1/Images/Screenshot 2023-10-15 at 16.21.09.png",
