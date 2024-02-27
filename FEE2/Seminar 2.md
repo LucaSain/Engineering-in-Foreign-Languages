@@ -11,5 +11,8 @@ Total from seminar 30 points
 + 10 points Test 2
 + extra points for answers and activity
 
+# Vectors - recap
+The sum of two vectors:
 
+$$A=\Pi
 
