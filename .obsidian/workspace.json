@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "904890ae61b3d751",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FEE2/Seminar 2.md",
+                "file": "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FEE2/Seminar 2.md",
+                "file": "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FEE2/Seminar 2.md"
+                "file": "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md"
               }
             }
           },
@@ -156,10 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b13ff6cb670c808",
+  "active": "904890ae61b3d751",
   "lastOpenFiles": [
-    "Excalidraw/Seminar 2 2024-02-27 17.18.31.excalidraw.md",
     "FEE2/Seminar 2.md",
+    "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md",
+    "Excalidraw/Seminar 2 2024-02-27 17.18.31.excalidraw.md",
     "Professional Communication/Seminar 1.md",
     "DSA/Course Informations.md",
     "DSA/Course 1.md",
@@ -193,7 +205,6 @@
     "Semester 1/Electrical Engineering/Semester I/Lectures/Week 3.md",
     "Semester 1/Electrical Engineering/Semester I/Lectures/Week 2.md",
     "Semester 1/Electrical Engineering/Semester I/Lectures/Week 10.md",
-    "Semester 1/Electrical Engineering/Semester I/Lectures/Week 1.md",
     "Semester 1/Electrical Engineering/Semester I/Homeworks/HW1",
     "Semester 1/Professional Communication/Semester I/Seminars",
     "Semester 1/Professional Communication/Semester I/Homeworks",

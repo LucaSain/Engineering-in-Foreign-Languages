@@ -13,10 +13,12 @@ Total from seminar 30 points
 
 # Vectors - recap
 Sum of two vectors:
-$$\displaylines{a=a_xi+a_yj \\ b=b_xi+b_yj \\ a+b=(a_x+b_x)i+(a_y+b_y)j}$$
+$$\displaylines{\vec{a}=a_x\vec{i}+a_y\vec{j} \\ \vec{b}=b_x\vec{i}+b_y\vec{j} \\ \vec{a}+\vec{b}=(a_x+b_x)\vec{i}+(a_y+b_y)\vec{j}}$$
 ![[Seminar 2 2024-02-27 17.18.31.excalidraw]]
 
 _note: addition is a bilinear form_
 
 Dot product:
-$$\displaylines{a=a_xi+a_yj \\ b=b_xi+b_yj \\ <a,b>=(a_x+b_x)i+(a_y+b_y)j}$$
+$$\displaylines{\vec{a}=a_x\vec{i}+a_y\vec{j} \\ \vec{b}=b_x\vec{i}+b_y\vec{j} \\ \vec{a} \cdot \vec{b}=(a_x+b_x)\vec{i}+(a_y+b_y)\vec{j}\\ or \\ \vec{a} \cdot \vec{b}=||\vec{a}||\space||\vec{b}||\space \cos(\angle{\vec{a},\vec{b}})}$$
+
+![[Seminar 2 2024-02-27 17.30.43.excalidraw]]
