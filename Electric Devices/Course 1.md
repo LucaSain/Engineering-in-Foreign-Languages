@@ -14,6 +14,7 @@
 * Seminar/lab
 	* Active presence 10%
 	* Homework 30%
+* Bonuses ^^
 
 ![[Course 1 2024-02-28 08.26.33.excalidraw]]
 
