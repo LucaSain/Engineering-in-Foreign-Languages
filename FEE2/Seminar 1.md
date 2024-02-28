@@ -18,6 +18,7 @@ $$\displaylines{\vec{a}=a_x\vec{i}+a_y\vec{j} \\ \vec{b}=b_x\vec{i}+b_y\vec{j} \
 _note: dot product is a bilinear form_
 
 Cross product:
-$$\displaylines{ a \times b = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_x & a_y & a_z \\ b_x & b_y & b_z\end{vmatrix}\\ and \\ ||\vec{a} \times \vec{b}||=||\vec{a}||\space||\vec{b}||\space \cos(\angle{\vec{a},\vec{b}})}$$
+$$\displaylines{ a \times b = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_x & a_y & a_z \\ b_x & b_y & b_z\end{vmatrix}\\ and \\ ||\vec{a} \times \vec{b}||=||\vec{a}||\space||\vec{b}||\space \sin(\angle{\vec{a},\vec{b}})}$$
 ![[Seminar 1 2024-02-27 18.00.50.excalidraw]]
+
 _note: the cross product is **not** a bilinear form_
