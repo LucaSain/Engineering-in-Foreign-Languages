@@ -1,5 +1,5 @@
 > Dan Neculoiu
-> neculoiu.dan@gmail.com
+> neculoiu.ion@gmail.com
 
 * Introduction
 * Electronic materials
