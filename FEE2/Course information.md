@@ -18,18 +18,16 @@ Minpoints = 50 points
 	+ afterwards the midterm can be re-taken
 	+ No threshold, no min points.
 	+ You are not obliged to come for the results
-	+ If you need 5 extra points to raise the mark (eg from 52 to 6) just come and answer a question ^^
+	+ If you need 5 extra points to raise the mark (eg from 52 to 6) just come and answer a question 😩🥳🏐
 
 Both exams are split:
 * Theory: 15 points
 * Problem 1: 10 points
 * Problem 2: 10 points
 * For Midterm: you can repeat the theory and the problems. If you want to repeat only one problem you must have in the other one 50% of the points.
-
 # To review
 [Gauss-Ostrogradski Theorem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjZ4Ima2c2EAxXJgP0HHVrBCtoQwqsBegQICBAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfE8L6Yz9gBo&usg=AOvVaw0FVm-t3xDzkbI_hkQpFSy-&opi=89978449)
 [Stokes-Green Theorem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLt_C22c2EAxWM7rsIHcugAAYQwqsBegQIDhAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLqNqqidw2mg&usg=AOvVaw0uS5XUEbfm_ZgFOHJH54_0&opi=89978449)
-
 # Course roadmap
 ### Midterm
 **Introduction**: 
@@ -63,11 +61,19 @@ Both exams are split:
 + Fluxes fascicular. $\phi_f, \phi, \vec{B}, \vec{C}$.
 + Energy, forces -> Magnetic field
 + Magnetic circuits.
-**States of Electromagnetic Fields**
+**States of Electromagnetic Fields**_Theory for final, 10 pts_
 + Electrostatics
 + Magnetostatics
 + Stationary electric fields
 + Stationary magnetic fields
 + Quasi stationary electric fields
-+ Quasi stationary magnatic fiels
++ Quasi stationary magnetic fields
+---
+Hapi summer. NVM
+
+# Important stuff
+$$\displaylines{q(Q)[C] \\ \vec{E}[v/m] \\ \vec{B}[T] \\ \vec{p} \space electric \space moment \\ \vec{m} \space electric \space momentum \\ i(A)}$$
+From $q$ we get the $q_l, q_s, q_v$.
+From $\vec{p}$ we get $\vec{P}$ polarisation
+From $\vec{m}$ we get $\vec{M}$ magnetisation
 

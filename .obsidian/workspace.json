@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FEE2/Course information.md",
+                "file": "FEE2/Seminar 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FEE2/Course information.md",
+                "file": "FEE2/Seminar 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FEE2/Course information.md",
+                "file": "FEE2/Seminar 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FEE2/Course information.md"
+                "file": "FEE2/Seminar 1.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "2c835d1923bee98b",
   "lastOpenFiles": [
+    "FEE2/Course information.md",
     "FEE2/Seminar 1.md",
     "Professional Communication/Seminar 1.md",
-    "FEE2/Course information.md",
     "Electric Devices/Course Information.md",
     "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.md",
     "Untitled",
