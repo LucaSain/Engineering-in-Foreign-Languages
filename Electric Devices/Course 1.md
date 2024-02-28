@@ -20,3 +20,9 @@ In 1947 the **bipolar junction transistor** was invented
 In 1960 the **first integrated circuit** was created
 => MOSFET and other circuits.
 
+### Basic principle of electronics
+![[Course 1 2024-02-28 09.21.34.excalidraw]]
+### Signals
+A signal is a waveform that server as a means of communication.
+![[Course 1 2024-02-28 09.25.56.excalidraw]]
+![[Course 1 2024-02-28 09.26.39.excalidraw]]

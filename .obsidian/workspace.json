@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b226f4ac2610a3cc",
+        "id": "72662a4a49c28e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "18a855ab08e492aa",
+            "id": "de5708f867d54ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,11 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18a855ab08e492aa",
+  "active": "de5708f867d54ea4",
   "lastOpenFiles": [
+    "Excalidraw/Course 1 2024-02-28 09.26.39.excalidraw.md",
+    "Electric Devices/Course 1.md",
+    "Excalidraw/Course 1 2024-02-28 09.25.56.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 09.21.34.excalidraw.md",
     "Electric Devices/Course Information.md",
     "Excalidraw/Course 1 2024-02-28 08.48.59.excalidraw.md",
-    "Electric Devices/Course 1.md",
     "DSA/Course Information.md",
     "FEE2/Seminar 1.md",
     "Excalidraw/Course 1 2024-02-28 08.16.50.excalidraw.md",
@@ -192,9 +195,6 @@
     "Semester 1/Professional Communication/Semester I/Seminars/Week 1.md",
     "Semester 1/Professional Communication/Semester I/Homeworks/HW1.md",
     "Semester 1/Operating Systems/Semester I/Lectures/Week 1.md",
-    "Semester 1/Linear Algebra/Semester I/Seminars/Week 4.md",
-    "Semester 1/Linear Algebra/Semester I/Seminars/Week 3.md",
-    "Semester 1/Linear Algebra/Semester I/Lectures/Vector Spaces.md",
     "Semester 1/Electrical Engineering/Semester I/Homeworks/HW1",
     "Semester 1/Professional Communication/Semester I/Seminars",
     "Semester 1/Images/Screenshot 2023-10-16 at 10.59.21.png",
