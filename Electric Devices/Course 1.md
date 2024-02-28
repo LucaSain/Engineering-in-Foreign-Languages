@@ -42,4 +42,16 @@ Atoms in a solid, crystal structure => 3D periodic array of building blocks.
 In a crystal the outer electronic orbits of closed atoms overlap, the valence electrons are neighbours.
 The whole crystal remains electrically neutral.
 
-Because we cannot 
+Materials can be classified into:
+* Conductors (almost all are metals)
+* Semiconductors (in between)
+* Insulators
+the borders from semiconductors are not clear. However the borders between conductors and insulators are clear. Today the insulators are considered semiconductors.
+
+The criteria for conductors, semiconductors and insulators
+**Conductors**
+![[Course 1 2024-02-28 09.43.57.excalidraw]]
+
+**Insulators**
+![[Course 1 2024-02-28 09.47.50.excalidraw]]
+_read about semiconductors, Shroldinger's ecuations_
