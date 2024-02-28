@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ba84f3f2e703e7df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md",
+                "file": "Physics/Laboratory 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md",
+                "file": "Physics/Laboratory 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md"
+                "file": "Physics/Laboratory 1.md"
               }
             }
           },
@@ -179,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba84f3f2e703e7df",
+  "active": "07f27f84b5cab81e",
   "lastOpenFiles": [
-    "Physics/Laboratory 1.md",
     "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md",
+    "Physics/Laboratory 1.md",
     "Electric Devices/Seminar 1.md",
     "Physics",
     "Excalidraw/Seminar 1 2024-02-28 15.30.26.excalidraw.md",

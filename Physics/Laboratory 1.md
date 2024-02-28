@@ -27,3 +27,4 @@ $$\sigma_\bar{x}=\sqrt{\frac{(x_1-\bar{x})^2+({x_2-\bar{x})^2}+...+(x_n-\bar{x})
 
 $$G=g\cdot m$$
 ![[Laboratory 1 2024-02-28 17.08.47.excalidraw]]
+The slope of a straight line is not the tangent of angle of inclination
