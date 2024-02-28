@@ -9,6 +9,8 @@ All the rules from the FEE1 apply: TK1, TK2 and Ohm's.
 The first electronic devices were vacuum tubes.
 ![[Course 1 2024-02-28 08.48.59.excalidraw]]
 In a vacuum cube the electrons move easily.
+
+
 Electronic are the biggest market of the entire world.
 
 
