@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "855c2e226a60e03a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Devices/Seminar 1.md",
+                "file": "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Devices/Seminar 1.md",
+                "file": "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electric Devices/Seminar 1.md"
+                "file": "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md"
               }
             }
           },
@@ -156,10 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c835d1923bee98b",
+  "active": "855c2e226a60e03a",
   "lastOpenFiles": [
-    "Excalidraw/Seminar 1 2024-02-28 14.45.09.excalidraw.md",
     "Electric Devices/Seminar 1.md",
+    "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md",
+    "Excalidraw/Seminar 1 2024-02-28 14.45.09.excalidraw.md",
     "FEE2/Seminar 1.md",
     "FEE2/Course information.md",
     "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.md",
@@ -191,7 +203,6 @@
     "semester2/test.md",
     "Screenshot 2024-02-21 at 16.34.32.png",
     "Screenshot 2024-02-21 at 17.02.39.png",
-    "semester2/welcome.md",
     "semester2/electrotehnics2/Screenshot 2024-02-21 at 14.38.29.png",
     "process_md_files.py",
     "semester2/electrotehnics2",
