@@ -30,4 +30,6 @@ Laboratory 💿
 		3. $T=300K$
 		4. $q=e=1.6\times10^-19C$
 		5. $\frac{kT}{q}[V]=0.025V$
+		6. Bias Regions $$i_d =
+\begin{cases} i_s\times\exp{\frac{gV_0}{nkT}} \\ D1 \\  \end{cases}$$
 ![[Seminar 1 2024-02-28 15.14.48.excalidraw]]
