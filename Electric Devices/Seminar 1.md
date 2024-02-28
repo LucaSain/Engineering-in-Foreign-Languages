@@ -16,3 +16,12 @@ Laboratory 💿
 	and so on
 
 
+# Modeling of an electronic device
+1. Device. Symbol and elec. variables definition
+![[Seminar 1 2024-02-28 14.45.09.excalidraw]]
+2. Device Equation and/\or equivalent circuits
+	1. For resistor: $$v=R\times i$$
+	2. For diode: $$i_D=I_S[\exp(\frac{gV_d}{nkT})-1]$$
+3. Model parameter
+	1. For resistor: $R_j$
+	2. 
