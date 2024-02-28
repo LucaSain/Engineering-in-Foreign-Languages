@@ -24,4 +24,10 @@ Laboratory 💿
 	2. For diode: $$i_D=I_S[\exp(\frac{gV_d}{nkT})-1]$$
 3. Model parameter
 	1. For resistor: $R_j$
-	2. 
+	2. For diode:
+		1. $I_s=I_0$ saturation current
+		2. $n$  ideality factor $[1..2]$
+		3. $T=300K$
+		4. $q=e=1.6\times10^-19C$
+		5. $\frac{kT}{q}[V]=0.025V$
+		6. 
