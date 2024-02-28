@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FEE2/Course information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ecaed17c2eae717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electric Devices/Seminar 1.md",
+                "file": "FEE2/Seminar 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Devices/Seminar 1.md",
+                "file": "FEE2/Seminar 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Devices/Seminar 1.md",
+                "file": "FEE2/Seminar 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electric Devices/Seminar 1.md"
+                "file": "FEE2/Seminar 1.md"
               }
             }
           },
@@ -169,14 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ecaed17c2eae717",
+  "active": "2c835d1923bee98b",
   "lastOpenFiles": [
     "FEE2/Course information.md",
-    "Electric Devices/Seminar 1.md",
+    "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.md",
     "FEE2/Seminar 1.md",
+    "Electric Devices/Seminar 1.md",
     "Professional Communication/Seminar 1.md",
     "Electric Devices/Course Information.md",
-    "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.md",
     "Untitled",
     "Electric Devices/Course 1.md",
     "Excalidraw/Course 1 2024-02-28 09.47.50.excalidraw.md",

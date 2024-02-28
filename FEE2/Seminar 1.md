@@ -23,3 +23,6 @@ $$\displaylines{ a \times b = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_x
 ![[Seminar 1 2024-02-27 18.00.50.excalidraw]]
 
 _note: the cross product is **not** a bilinear form_
+
+## Basic algebra for FEE2
+$$\nabla=\frac{\partial}{\partial x}+ \frac{\partial}{\partial y}+ \frac{\partial}{\partial z}$$
