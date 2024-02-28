@@ -55,3 +55,6 @@ The criteria for conductors, semiconductors and insulators
 **Insulators**
 ![[Course 1 2024-02-28 09.47.50.excalidraw]]
 _read about semiconductors, Shroldinger's ecuations_
+
+**Semiconductors**
+Semiconductors are mainly in group IV on the Mendeleev's Table.
