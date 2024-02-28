@@ -26,3 +26,20 @@ In 1960 the **first integrated circuit** was created
 A signal is a waveform that server as a means of communication.
 ![[Course 1 2024-02-28 09.25.56.excalidraw]]
 ![[Course 1 2024-02-28 09.26.39.excalidraw]]
+
+## Notation conventions
+(see table)
+For DC:
+![[Course 1 2024-02-28 08.16.50.excalidraw]]$$i_D=I_s[\exp(\frac{fV_d}{nkT}-1)]$$
+For AC:
+![[Course 1 2024-02-28 09.34.07.excalidraw]]
+$$V_d=ReI_d$$
+
+# Materials and electronic components
+**Matter** is composed of **atoms**.
+Electrons are arranged i orbits.
+Atoms in a solid, crystal structure => 3D periodic array of building blocks.
+In a crystal the outer electronic orbits of closed atoms overlap, the valence electrons are neighbours.
+The whole crystal remains electrically neutral.
+
+Because we cannot 
