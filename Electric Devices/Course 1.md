@@ -1,27 +1,10 @@
-> Dan Neculoiu
-> neculoiu.dan@gmail.com
+# Introduction
+## Electronic devices
+An electronic device is not linear
+Can be a device like a _diode_, _transistor_.
+Can be an integrated circuit. Like a full-fledged component.
+Electronic are the biggest market of the entire world.
 
-* Introduction
-* Electronic materials
-* The pn junction code
-* Bipolar junction transistor
-* Field effect transistor (JFET, MOSFET)
-
-# Grading
-* Course
-	* Final exam 50%
-	* Active presence 10%
-* Seminar/lab
-	* Active presence 10%
-	* Homework 30%
-* Bonuses ^^
-
-![[Course 1 2024-02-28 08.26.33.excalidraw]]
-
-# Roadmap
-
-![[Course 1 2024-02-28 08.08.22.excalidraw]]
-
-For example we'll have to get the equation from:
-![[Course 1 2024-02-28 08.16.50.excalidraw]]
-$$i_D=I_s[\exp(\frac{fV_d}{nkT}-1)]$$
+### Notations:
+Voltage, Current and Complex Numbers
+$$Voltage(V), Current(I), j=\sqrt{-1}$$
