@@ -28,3 +28,6 @@ $$\sigma_\bar{x}=\sqrt{\frac{(x_1-\bar{x})^2+({x_2-\bar{x})^2}+...+(x_n-\bar{x})
 $$G=g\cdot m$$
 ![[Laboratory 1 2024-02-28 17.08.47.excalidraw]]
 The slope of a straight line is not the tangent of angle of inclination
+$$slope = \frac{\delta y}{\delta x}= \frac{y_2-y_1}{x_2-x_1}$$
+Thus, for this example:
+$$slope=\frac{(G)_2-(G)_1}{(m)_2-(m)_1}=\frac{1.65N-0.55N}{0.45kg-0.15kg}=3.6(6)\frac{N}{kg}=3.6\frac{m}{s^2}$$
