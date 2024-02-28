@@ -39,7 +39,7 @@ Both exams are split:
 	Different distributions of electric charge
 **Laws**:
 + Constitutive law of electric field + law of temporary polarisation
-+ Law of electric flux. Gauss theorem related to law of electric flux. Gauss method for calculating electric field strength. Electric potential,  voltage. _This is for the first problem of midterm._
++ Law of electric flux. Gauss theorem related to law of electric flux. Gauss method for calculating electric field strength. Electric potential,  voltage. _For P1 midterm_
 + Law of Electric Charge Conservation.
 + Law of Electric Conduction
 + Law of power/energy transfer through conduction. (Joule-Lenz law). Law of electrolysis
@@ -48,9 +48,26 @@ Both exams are split:
 * Spherical capacitors. _For P2 midterm_ 
 * Cylindrical capacitors. _For P2 midterm_
 ---
-**Laws**
+### Final
+**Laws** (10 pts theory for final)
 + Constitutive law of magnetic field and law of temporary magnetisation
 + Law of magnetic flux
-+ Faraday's law on magnetic induction
-+ Law of magnetic circuit. Ampére theorem. Ampére method for calculating $\vec{H}$ (magnetic field strenght)
++ Faraday's law on magnetic induction. _For P1 final_
++ Law of magnetic circuit. Ampére theorem. Ampére method for calculating $\vec{H}$ (magnetic field strength).
+**Linear magnetic circuits**
++ Magnetic resistance (Reluctance).
++ Inductors (Coils). Inductance $L$.
++ Methods for solving Linear Magnetic Circuits
+	+ With or without airgaps
+	+ With or without several coils
++ Fluxes fascicular. $\phi_f, \phi, \vec{B}, \vec{C}$.
++ Energy, forces -> Magnetic field
++ Magnetic circuits.
+**States of Electromagnetic Fields**
++ Electrostatics
++ Magnetostatics
++ Stationary electric fields
++ Stationary magnetic fields
++ Quasi stationary electric fields
++ Quasi stationary magnatic fiels
 
