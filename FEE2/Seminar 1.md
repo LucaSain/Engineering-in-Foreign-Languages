@@ -1,8 +1,9 @@
+
 >  Adelina Bordianu
 >  adelina.bordianu@upb.ro
 >  Adelina Rodica Bordianu on teams
 
-We will talk about electric and magnetic fiels
+We will talk about electric and magnetic fields
 # Vectors - recap
 Sum of two vectors:
 $$\displaylines{\vec{a}=a_x\vec{i}+a_y\vec{j} \\ \vec{b}=b_x\vec{i}+b_y\vec{j} \\ \vec{a}+\vec{b}=(a_x+b_x)\vec{i}+(a_y+b_y)\vec{j}}$$
