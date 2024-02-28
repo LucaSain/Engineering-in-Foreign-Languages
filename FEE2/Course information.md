@@ -31,16 +31,26 @@ Both exams are split:
 [Stokes-Green Theorem](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLt_C22c2EAxWM7rsIHcugAAYQwqsBegQIDhAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLqNqqidw2mg&usg=AOvVaw0uS5XUEbfm_ZgFOHJH54_0&opi=89978449)
 
 # Course roadmap
-Introduction: 
+### Midterm
+**Introduction**: 
 + Primary and derived grant of EMG field
 + Coulomb's force, Coulomb's law
 + Electric Field Strength $\vec{E}$
 	Different distributions of electric charge
-Laws:
+**Laws**:
 + Constitutive law of electric field + law of temporary polarisation
-+ Law of electric flux. Gauss theorem related to law of electric flux. Gauss method for calculating electric field strength. Electric potential,  voltage.
++ Law of electric flux. Gauss theorem related to law of electric flux. Gauss method for calculating electric field strength. Electric potential,  voltage. _This is for the first problem of midterm._
 + Law of Electric Charge Conservation.
 + Law of Electric Conduction
-+ Law of power/energy transfer through conduction. (Joule-Lenz law). 
-
++ Law of power/energy transfer through conduction. (Joule-Lenz law). Law of electrolysis
+**Capacitors** (Capacitance, Energy, Electrical Field):
+* Parallel plated capacitors. _Theory for midterm 5 points_
+* Spherical capacitors. _For P2 midterm_ 
+* Cylindrical capacitors. _For P2 midterm_
+---
+**Laws**
++ Constitutive law of magnetic field and law of temporary magnetisation
++ Law of magnetic flux
++ Faraday's law on magnetic induction
++ Law of magnetic circuit. Ampére theorem. Ampére method for calculating $\vec{H}$ (magnetic field strenght)
 
