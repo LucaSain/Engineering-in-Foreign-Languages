@@ -13,4 +13,13 @@ List of experiments
 | 9       | The speed of light     |                 |
 | 10      | Fresnel diffraction    |                 |
 ### Example 0
-The weight values of 5 different 
+The weight values of 5 different bodies on Mars are given
+
+| Mass(g) | Weight(H) |      |      |      |      | $\vec{G}$(N) | $\sigma_\vec{G}$ |
+| ------- | --------- | ---- | ---- | ---- | ---- | ------------ | ---------------- |
+| 51.1    | 0.21      | 0.25 | 0.15 | 0.22 | 0.32 |              |                  |
+| 18.1    | 0.36      | 0.25 | 0.33 | 0.49 | 0.39 |              |                  |
+| 196.3   | 0.89      | 0.77 | 0.71 | 0.76 | 0.62 |              |                  |
+| 252.8   | 1.15      | 0.99 | 0.76 | 0.96 | 0.97 |              |                  |
+| 498.1   | 1.87      | 1.85 | 1.95 | 1.44 | 1.87 |              |                  |
+
