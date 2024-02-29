@@ -60,5 +60,8 @@ $$\int_a^\infty \frac{1}{x^2} dx \quad (a>0) \space C \Rightarrow \alpha >1$$
 $$\int_1^{\infty}\frac{1}{x^2} \mathit{is \space convergent}$$
 
 **Tests of convergence**
-let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \Re \quad \mathit{}}$ 
+let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \Re} \quad \mathit{if} \space (b-x)^\alpha f(x)\epsilon(0,\infty)$
+
+**Exercise**
+
 
