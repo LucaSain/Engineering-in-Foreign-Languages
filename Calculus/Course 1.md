@@ -30,4 +30,19 @@ $f$ is Riemann integrable on the interval $[a,b]$ if $\exists I \epsilon R$ with
 $$f:[a,b] \rightarrow R \quad \int_a^bf(x)dx = F(b)-F(a), F'=f$$
 The set of all primitives of function f is:
 $$\int f(x)dx = \set{F| F'=f}$$
-_We must know the ta_
+_We must know the table of primitives_
+
+**Integration by parts**
+$$\int_a^buv'=uv\rvert_a^b - \int_a^bu'v$$
+**Compositie functions**
+$$\int_a^bf(\phi(t))\cdot\phi'(x)dx = F(\phi(b))-F(\phi(a))$$
+
+We are going to define the generalisations of this formulas.
+
+### Improper Riemann integrals
+![[Course 1 2024-02-29 09.28.29.excalidraw]]
+
+Compute the area. $ $
+
+$$\int $$
+
