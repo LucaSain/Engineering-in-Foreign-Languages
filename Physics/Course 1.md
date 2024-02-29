@@ -122,3 +122,11 @@ wavelength is the distance after which the wave repeats itself
 T is the time interval after which the wave repeats itself.
 f = frequency
 *Angular* frequency is $\omega=2\pi f$
+The mechanism of producing the waves is the one which determines the type of the way. 
+Longest wavelengths and shortest waves are radio waves
+Then follows the microwaves
+Then there is infrared (heat)
+Then visible
+Then ultraviolet
+Then x rays
+Then gamma
