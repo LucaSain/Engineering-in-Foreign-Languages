@@ -90,8 +90,35 @@ $$
 \displaylines{E=E(x,t) \\ 
 \frac{\partial E(x,y)}{\partial x^2}-\epsilon_0\mu_0\frac{\partial^2 E(x,t)}{\partial t^2} \mathit{}
 \\
-'nabla'
+\nabla^2=\Delta \quad and \space it's \space called \space Laplacian
 }$$
+
+Maxwell conclusion was that the magnetic fields propagate with a speed:
+
+
+$$v=\frac{1}{\sqrt{\epsilon_0\mu_0}}$$
 
 Homework 1
 Show me that B also satisfies an equation of a wave
+Homework 2
+Demonstrate that the speed is $3\times10^8\frac{m}{s}$
+The speed of light.
+
+This has demonstrated that the light has not an elastic nature.
+This has proven that the light was of an electromagnetic nature.
+
+Homework 3 w/ assignment.
+Write a small essay on the first experiments in which the first electromagnetic waves were produced. Check Hertz's experiments.
+
+
+Today's efforts are to unify all the types of fields. Check's Einsteins' last words.
+
+**Light is an electromagnetic wave**.
+
+## The electromagnetic wave spectrum
+Wavelengths and frequency.
+$\lambda=c\times T=\frac{c}{f}$
+wavelength is the distance after which the wave repeats itself
+T is the time interval after which the wave repeats itself.
+f = frequency
+*Angular* frequency is $\omega=2\pi f$
