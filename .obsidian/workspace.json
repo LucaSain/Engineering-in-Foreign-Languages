@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Physics/Course information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7714c9ee52965637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Physics/Course 1.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53abb757ea386673",
+  "active": "7714c9ee52965637",
   "lastOpenFiles": [
-    "Calculus/Course 1.md",
+    "Physics/Course information.md",
     "Physics/Course 1.md",
+    "Calculus/Course 1.md",
     "Excalidraw/Course 1 2024-02-29 09.28.29.excalidraw.md",
     "Excalidraw/Course 1 2024-02-29 09.04.31.excalidraw.md",
     "Excalidraw/Course 1 2024-02-29 08.33.38.excalidraw.md",
@@ -198,7 +211,6 @@
     "Excalidraw/Course 1 2024-02-28 08.16.50.excalidraw.md",
     "Excalidraw/Course 1 2024-02-28 09.26.39.excalidraw.md",
     "Excalidraw/Course 1 2024-02-28 09.25.56.excalidraw.md",
-    "Excalidraw/Course 1 2024-02-28 09.21.34.excalidraw.md",
     "Electric Devices",
     "FEE2",
     "DSA",
