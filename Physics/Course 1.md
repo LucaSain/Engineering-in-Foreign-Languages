@@ -47,4 +47,20 @@ He was able to obtain a theory of the electromagnetic phenomena.
 ### Maxwell equations:
 _local form_
 
-$$\displaylines{\nabla\vec{E}=\frac{\phi}{\epsilon)o} \\ \nabla \vec{B} = 0 \\ \nabla\times\\vec{E}=-\frac{\partial\vec{B}}{\partial t} \\ \nabla \times \ \vec{B} = \mu_o \vec}$$
+$$\displaylines{\nabla\vec{E}=\frac{\rho}{\epsilon_o} \\ \nabla \vec{B} = 0 \\ \nabla\times\\vec{E}=-\frac{\partial\vec{B}}{\partial t} \\ \nabla \times \ \vec{B} = \mu_o \vec{j} + \epsilon_0\mu_0\frac{\partial\vec{E}}{\partial t} \\ \vec{E}=\vec{E}(\vec{r},t) \\ \vec{B}=\vec{B}(\vec{r,t}) \\ rho=\frac{dQ}{dV} \\ j=\frac{dI}{dA}}$$
+
+1st Gauss law
+The divergence of Electric field
+
+2nd Gauss law 
+The divergence of the magnetic field is 0.
+
+3.Electromagnetic induction law:
+Time changing the magnetic field produces an electric field.
+When the magnetic field is changing there is an electric field produced.
+A variable magnetic field produces an electric field
+
+4.**Amper's law**.
+The change of the electric field produces a magnetic field.
+
+$\rho$is the electric charge density
