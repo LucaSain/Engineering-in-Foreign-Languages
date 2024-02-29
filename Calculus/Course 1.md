@@ -42,7 +42,13 @@ We are going to define the generalisations of this formulas.
 ### Improper Riemann integrals
 ![[Course 1 2024-02-29 09.28.29.excalidraw]]
 
-Compute the area. $ $
-
-$$\int $$
+Compute the area $\ln:(0,1] \rightarrow R$ 
+$$
+A(a)=\int_\epsilon^1|ln(x)|dx = -\int_\epsilon^1\ln(x)dx = -(-\epsilon\ln(\epsilon)-1+\epsilon), \epsilon \to 0 = 1
+$$
+Compute the area $e^x$. The area is still 1 👌 .
+**Definition**
+Let $$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad is \space convergent \space if \\
+\lim_{a \to }
+}$$
 
