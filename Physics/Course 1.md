@@ -63,4 +63,18 @@ A variable magnetic field produces an electric field
 4.**Amper's law**.
 The change of the electric field produces a magnetic field.
 
-$\rho$is the electric charge density
+$\rho$ is the electric charge density
+$j$ is the electric charge density. It's defined at each point of the conductor. It is local. *Local* is different from *integral*.
+
+## The wave equation:
+Let $\Psi=\Psi(x,t)$
+$$
+\frac{\partial^2\psi(x,t)}{\partial x^2}-\frac{1}{v^2}\cdot \frac{\partial^2\psi}{\partial t^2}=0
+$$
+_note: the solution to a differential equation is a function._
+And we get the wave function:
+$$\Psi(x,t)=A\sin(RX-\omega t)$$
+$\Psi$ can be ether $E$ or  $B$
+
+$$\displaylines{ \nabla \times (\nabla \times \vec{E}) = \nabla(\nabla\vec{E}) - \nabla^2\vec{E} \\ \nabla = \frac{\partial}{\partial x}\vec{u}_x \frac{\partial}{\partial y}\vec{u}_y + \frac{\partial}{\partial z}\vec{u}_z \\ \mathit{divergence: } \nabla\vec{V} = \frac{\partial V_x}{\par}}$$
+
