@@ -76,5 +76,22 @@ And we get the wave function:
 $$\Psi(x,t)=A\sin(RX-\omega t)$$
 $\Psi$ can be ether $E$ or  $B$
 
-$$\displaylines{ \nabla \times (\nabla \times \vec{E}) = \nabla(\nabla\vec{E}) - \nabla^2\vec{E} \\ \nabla = \frac{\partial}{\partial x}\vec{u}_x \frac{\partial}{\partial y}\vec{u}_y + \frac{\partial}{\partial z}\vec{u}_z \\ \mathit{divergence: } \nabla\vec{V} = \frac{\partial V_x}{\par}}$$
+$$\displaylines{ \nabla \times (\nabla \times \vec{E}) = \nabla(\nabla\vec{E}) - \nabla^2\vec{E} \\ \nabla = \frac{\partial}{\partial x}\vec{u}_x \frac{\partial}{\partial y}\vec{u}_y + \frac{\partial}{\partial z}\vec{u}_z \\ \mathit{divergence: } \nabla\vec{V} = \frac{\partial V_x}{\partial x}+ \frac{\partial V_y}{\partial y} + \frac{\partial V_z}{\partial z} \\ \mathit{curl: } \nabla\times\vec{V}}$$
 
+The equations that are satisfied without the sources (for electromagnetic fields)(example = anthena)
+$$\displaylines{\nabla\vec{E}=0 \\ \nabla\vec{B}=0 \\ \nabla\times\vec{E}=-\frac{\partial \vec{V}}{\partial t} \\ \nabla\times\vec{B}=\epsilon_0\mu_0\frac{\partial\vec{E}}{\partial t}}$$
+
+Thus,
+$$\nabla(\nabla\vec{E})-\nabla^2\vec{E}$$
+
+Let's write E as a function of x
+
+$$
+\displaylines{E=E(x,t) \\ 
+\frac{\partial E(x,y)}{\partial x^2}-\epsilon_0\mu_0\frac{\partial^2 E(x,t)}{\partial t^2} \mathit{}
+\\
+'nabla'
+}$$
+
+Homework 1
+Show me that B also satisfies an equation of a wave
