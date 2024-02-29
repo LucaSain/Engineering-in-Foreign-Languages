@@ -23,5 +23,24 @@ Electric fields are produced by charges.
 ![[Course 1 2024-02-29 10.40.27.excalidraw]]
 Electric field force:
 $$\vec{F}=\frac{Qq_t}{4\pi\epsilon_0r^2}\cdot\frac{\vec{r}}{r}$$
-Electric field intensity:
-$$\vec{E}=\frac{\vec{F}}{}$$
+Electric intensity:
+$$\vec{E}=\frac{\vec{F}}{q_t}$$
+Electric induction:
+$$\vec{D}=\epsilon_0\vec{E}$$
+Magnetic induction:
+$$\displaylines{\vec{B}=\vec{B}(\vec{r},t) \\ B=\mu_0\frac{I}{2\pi r}}$$
+Magnetic intensity:
+$$\vec{H}=\frac{\vec{B}}{\mu_0}$$
+Electric force
+$$\vec{F}_{el}=q\vec{E}$$
+Laurenz force
+$$\vec{F}_L=q\vec{v}\times\vec{B}$$
+
+Electromagnetic fields are produces by sources of:
+* electric field: charges
+* mg field: currents (moving charges)
+
+For any years the electric and magnetic phenomena were treated differently.
+At some point some experiments showed that the fields can generate each others. The guy who did the great stuff with equations was **Robert Maxwell**.
+He was able to obtain a theory of the electromagnetic phenomena.
+
