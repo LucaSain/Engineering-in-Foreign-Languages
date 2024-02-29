@@ -49,6 +49,16 @@ $$
 Compute the area $e^x$. The area is still 1 👌 .
 **Definition**
 Let $$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad is \space convergent \space if \\
-\lim_{a \to }
+\lim_{\displaylines{{u \to b} \\ u \lt b}} \int_a^bf(x)dx \space \epsilon \space \Re \\ 
+\mathit{if \space yes} \\ 
+\int_a^bf(x)dx=\lim_{\displaylines{{u \to b} \\ u<b}}\int_a^uf(x)dx
 }$$
+
+The analogy with the theory of series goes **deeper** than just the formulations
+For example:
+$$\int_a^\infty \frac{1}{x^2} dx \quad (a>0) \space C \Rightarrow \alpha >1$$
+$$\int_1^{\infty}\frac{1}{x^2} \mathit{is \space convergent}$$
+
+**Tests of convergence**
+let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \Re \quad \mathit{}}$ 
 
