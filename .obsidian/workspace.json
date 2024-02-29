@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Laboratory 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6b01e9fe3672f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course 1.md",
+                "file": "Calculus/Course 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course 1.md",
+                "file": "Calculus/Course 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course 1.md",
+                "file": "Calculus/Course 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course 1.md"
+                "file": "Calculus/Course 1.md"
               }
             }
           },
@@ -169,10 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6b01e9fe3672f32",
+  "active": "06efa27683482e8a",
   "lastOpenFiles": [
     "Physics/Laboratory 1.md",
-    "Course 1.md",
+    "Excalidraw/Course 1 2024-02-29 08.09.57.excalidraw.md",
+    "Calculus/Course 1.md",
     "Calculus",
     "Electric Devices/Seminar 1.md",
     "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md",
@@ -199,7 +187,6 @@
     "Excalidraw/Course 1 2024-02-28 08.08.22.excalidraw.md",
     "Electric Devices",
     "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md",
-    "Excalidraw/Seminar 2 2024-02-27 17.18.31.excalidraw.md",
     "FEE2",
     "DSA",
     "Excalidraw",
