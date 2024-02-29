@@ -21,4 +21,13 @@ $$f:[a,b] \rightarrow R $$
 ![[Course 1 2024-02-29 09.04.31.excalidraw]]
 _Fermat found the formula for the area of $x^\alpha$ but the formula for $x^{-1}$._
 A division:$$\Delta = division[a,b] \quad a=x_0\lt x_1 \lt x_2 \lt ... \lt x_n = b  $$
-$$\displaylines{||\Delta|| = \max_{i=1,n}(x_i-x_{i-1}) \\ \xi_i \epsilon [x_{i-1},x_i]}$$
+$$\displaylines{||\Delta|| = \max_{i=1,n}(x_i-x_{i-1}) \\ \xi_i \epsilon [x_{i-1},x_i] \quad intermediary \space point  \\ \sum_{i=0}^n{f(\xi_i)(x_i-x_{i-1})}=S(f,\Delta,\xi_i)}$$
+
+**Definition**
+$f$ is Riemann integrable on the interval $[a,b]$ if $\exists I \epsilon R$ with $\forall \xi \gt 0, \exists \delta_\xi \space such \space that \space \forall \Delta \space with ||\Delta|| \lt \delta_{\xi_i} \space and  \space \forall(\xi_i)$  
+
+### The fundamental theorem of calculus
+$$f:[a,b] \rightarrow R \quad \int_a^bf(x)dx = F(b)-F(a), F'=f$$
+The set of all primitives of function f is:
+$$\int f(x)dx = \set{F| F'=f}$$
+_We must know the ta_
