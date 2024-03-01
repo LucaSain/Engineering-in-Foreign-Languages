@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8227ded3bcc5a87c",
+        "id": "85e665373bf0a03e",
         "type": "tabs",
         "children": [
           {
-            "id": "56d8cceaaa5415d9",
+            "id": "0bf0257d0ed5dce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Course 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53abb757ea386673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Course information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7714c9ee52965637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Course 1.md",
+                "file": "Electric Devices/Course 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Course 1.md",
+                "file": "Electric Devices/Course 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Course 1.md",
+                "file": "Electric Devices/Course 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Course 1.md"
+                "file": "Electric Devices/Course 1.md"
               }
             }
           },
@@ -181,54 +156,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7714c9ee52965637",
+  "active": "0bf0257d0ed5dce2",
   "lastOpenFiles": [
-    "FEE2/Seminar 1.md",
-    "Calculus/Course 1.md",
-    "Physics/Course information.md",
-    "Physics/Course 1.md",
-    "Excalidraw/Course 1 2024-02-29 10.40.27.excalidraw.md",
+    "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md",
     "Excalidraw/Course 1 2024-02-29 10.38.51.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-29 08.33.38.excalidraw.md",
+    "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.png",
+    "Excalidraw/Seminar 2 2024-02-27 17.18.31.excalidraw.md",
+    "Excalidraw/Seminar 2 2024-02-27 17.18.31.excalidraw.png",
+    "Excalidraw/Seminar 1 2024-02-28 15.30.26.excalidraw.md",
+    "Excalidraw/Seminar 1 2024-02-28 15.30.26.excalidraw.png",
+    "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md",
+    "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.png",
+    "Excalidraw/Seminar 1 2024-02-28 14.45.09.excalidraw.md",
+    "Excalidraw/Seminar 1 2024-02-28 14.45.09.excalidraw.png",
+    "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.md",
+    "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.png",
+    "Excalidraw/Seminar 1 2024-02-26 10.23.57.excalidraw.md",
+    "Excalidraw/Seminar 1 2024-02-26 10.23.57.excalidraw.png",
+    "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.png",
+    "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-29 10.40.27.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-29 10.38.51.excalidraw.png",
     "Excalidraw/Course 1 2024-02-29 09.28.29.excalidraw.md",
     "Excalidraw/Course 1 2024-02-29 09.04.31.excalidraw.md",
-    "Excalidraw/Course 1 2024-02-29 08.33.38.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-29 09.04.31.excalidraw.png",
     "Excalidraw/Course 1 2024-02-29 08.28.42.excalidraw.md",
-    "Physics/Laboratory 1.md",
     "Excalidraw/Course 1 2024-02-29 08.09.57.excalidraw.md",
-    "Calculus",
-    "Electric Devices/Seminar 1.md",
-    "Excalidraw/Laboratory 1 2024-02-28 17.08.47.excalidraw.md",
-    "Physics",
-    "Excalidraw/Seminar 1 2024-02-28 15.30.26.excalidraw.md",
-    "Excalidraw/Seminar 1 2024-02-28 15.14.48.excalidraw.md",
-    "Excalidraw/Seminar 1 2024-02-28 14.45.09.excalidraw.md",
-    "FEE2/Course information.md",
-    "Excalidraw/Seminar 1 2024-02-27 18.00.50.excalidraw.md",
-    "Professional Communication/Seminar 1.md",
-    "Electric Devices/Course Information.md",
-    "Electric Devices/Course 1.md",
     "Excalidraw/Course 1 2024-02-28 09.47.50.excalidraw.md",
     "Excalidraw/Course 1 2024-02-28 09.43.57.excalidraw.md",
     "Excalidraw/Course 1 2024-02-28 09.34.07.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 09.26.39.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 09.25.56.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 09.21.34.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 08.48.59.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 08.26.33.excalidraw.md",
     "Excalidraw/Course 1 2024-02-28 08.16.50.excalidraw.md",
+    "Excalidraw/Course 1 2024-02-28 08.08.22.excalidraw.md",
+    "Physics/Course information.md",
+    "Calculus",
+    "Physics",
     "Electric Devices",
     "FEE2",
     "DSA",
     "Excalidraw",
     "Professional Communication",
-    "Screenshot 2024-02-21 at 16.34.32.png",
-    "Screenshot 2024-02-21 at 17.02.39.png",
-    "semester2/electrotehnics2/Screenshot 2024-02-21 at 14.38.29.png",
     "process_md_files.py",
     "semester2/electrotehnics2",
     "semester2",
-    "Semester 1/Images/Screenshot 2023-10-16 at 10.59.21.png",
-    "Semester 1/Images/Screenshot 2023-10-16 at 10.24.09.png",
-    "Semester 1/Images/Screenshot 2023-10-15 at 16.21.09.png",
-    "Semester 1/Images/Screenshot 2023-10-10 at 11.43.12.png",
-    "Semester 1/Images/Screenshot 2023-10-10 at 11.42.48.png",
-    "Semester 1/Images/Screenshot 2023-10-10 at 11.27.16.png",
-    "Semester 1/Images/Screenshot 2023-10-10 at 11.13.30.png",
     "Untitled.canvas"
   ]
 }
