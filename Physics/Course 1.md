@@ -40,14 +40,14 @@ Electromagnetic fields are produces by sources of:
 * electric field: charges
 * mg field: currents (moving charges)
 
-For any years the electric and magnetic phenomena were treated differently.
+For many years the electric and magnetic phenomena were treated differently.
 At some point some experiments showed that the fields can generate each others. The guy who did the great stuff with equations was **Robert Maxwell**.
 He was able to obtain a theory of the electromagnetic phenomena.
 
 ### Maxwell equations:
 _local form_
 
-$$\displaylines{\nabla\vec{E}=\frac{\rho}{\epsilon_o} \\ \nabla \vec{B} = 0 \\ \nabla\times\\vec{E}=-\frac{\partial\vec{B}}{\partial t} \\ \nabla \times \ \vec{B} = \mu_o \vec{j} + \epsilon_0\mu_0\frac{\partial\vec{E}}{\partial t} \\ \vec{E}=\vec{E}(\vec{r},t) \\ \vec{B}=\vec{B}(\vec{r,t}) \\ rho=\frac{dQ}{dV} \\ j=\frac{dI}{dA}}$$
+$$\displaylines{\nabla\vec{E}=\frac{\rho}{\epsilon_o} \\ \nabla \vec{B} = 0 \\ \nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \\ \nabla \times \ \vec{B} = \mu_o \vec{j} + \epsilon_0\mu_0\frac{\partial\vec{E}}{\partial t} \\ \vec{E}=\vec{E}(\vec{r},t) \\ \vec{B}=\vec{B}(\vec{r,t}) \\ \rho=\frac{dQ}{dV} \\ j=\frac{dI}{dA}}$$
 
 1st Gauss law
 The divergence of Electric field

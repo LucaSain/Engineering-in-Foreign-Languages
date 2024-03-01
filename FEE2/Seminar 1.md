@@ -26,3 +26,4 @@ _note: the cross product is **not** a bilinear form_
 
 ## Basic algebra for FEE2
 $$\nabla=\frac{\partial}{\partial x}+ \frac{\partial}{\partial y}+ \frac{\partial}{\partial z}$$
+Is called Nabla
