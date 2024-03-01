@@ -7,7 +7,7 @@ Electrical systems include resistors, capacitors, inductors = **electrical devic
 All the rules from the FEE1 apply: TK1, TK2 and Ohm's.
 
 The first electronic devices were vacuum tubes.
-![Course 1 2024-02-28 08.48.59.png]
+![[Course 1 2024-02-28 08.48.59.excalidraw.png]]
 In a vacuum cube the electrons move easily.
 [Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwirgOvjvc2EAxUrhv0HHY8ACeIQwqsBegQINhAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK6BgZ8s1Vuw&usg=AOvVaw08BqT2YFCWzfwe63KN1Wt1&opi=89978449)
 Electronic are the biggest market of the entire world.

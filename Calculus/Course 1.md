@@ -14,7 +14,7 @@ $$\int_a^bf(x)dx=A$$
 ## Proof
 ![[Course 1 2024-02-29 08.33.38.excalidraw]]
 Newton looked at the derivative of the Area of $f(x)$.
-The area of the rectangle is: $$\displaylines{(y-x)*m\le A(y) - A(x)\le M(y-x) \\ m \le \frac{A(y) -A(x)}{y-x}\le M \\ \lim_x}$$
+The area of the rectangle is: $$\displaylines{(y-x)*m\le A(y) - A(x)\le M(y-x) \\ m \le \frac{A(y) -A(x)}{y-x}\le M \\ \lim_{x \to y}\frac{A(y)-A(x)}{y-x}=A'(y)}$$
 
 ## The Riemann integral
 $$f:[a,b] \rightarrow R $$
@@ -22,6 +22,8 @@ $$f:[a,b] \rightarrow R $$
 _Fermat found the formula for the area of $x^\alpha$ but the formula for $x^{-1}$._
 A division:$$\Delta = division[a,b] \quad a=x_0\lt x_1 \lt x_2 \lt ... \lt x_n = b  $$
 $$\displaylines{||\Delta|| = \max_{i=1,n}(x_i-x_{i-1}) \\ \xi_i \epsilon [x_{i-1},x_i] \quad intermediary \space point  \\ \sum_{i=0}^n{f(\xi_i)(x_i-x_{i-1})}=S(f,\Delta,\xi_i)}$$
+
+
 
 **Definition**
 $f$ is Riemann integrable on the interval $[a,b]$ if $\exists I \epsilon R$ with $\forall \xi \gt 0, \exists \delta_\xi \space such \space that \space \forall \Delta \space with ||\Delta|| \lt \delta_{\xi_i} \space and  \space \forall(\xi_i)$  
