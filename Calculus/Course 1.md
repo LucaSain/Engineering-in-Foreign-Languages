@@ -48,7 +48,7 @@ Compute the area $\ln:(0,1] \rightarrow R$
 $$
 A(a)=\int_\epsilon^1|ln(x)|dx = -\int_\epsilon^1\ln(x)dx = -(-\epsilon\ln(\epsilon)-1+\epsilon), \epsilon \to 0 = 1
 $$
-Compute the area $e^x$. The area is still 1 👌 .
+Compute the area $e^x$. The area is still 1 👌.
 **Definition**
 Let $$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad is \space convergent \space if \\
 \lim_{\displaylines{{u \to b} \\ u \lt b}} \int_a^bf(x)dx \space \epsilon \space \Re \\ 
@@ -60,7 +60,7 @@ The analogy with the theory of series goes **deeper** than just the formulations
 For example:
 $$\int_a^\infty \frac{1}{x^2} dx \quad (a>0) \space C \Rightarrow \alpha >1$$
 $$\int_1^{\infty}\frac{1}{x^2} \mathit{is \space convergent}$$
-
+$$\int_1^\infty \frac{1}{x} \mathit{ \space is \space divergent}  $$
 **Tests of convergence**
 let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \Re} \quad \mathit{if} \space (b-x)^\alpha f(x)\epsilon(0,\infty)$
 
