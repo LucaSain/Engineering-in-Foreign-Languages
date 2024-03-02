@@ -79,3 +79,15 @@ let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \
 The integral test:
 $$\displaylines{if \space f \space is \space a \space monotone \space decreasing \space and\\ \space \int_1^\infty f(x)dx = \lim_{t \to \infty} \int_1^t f(x)dx \lt \infty \\ \mathit{the \space series \space converges} \\ \text{otherwise, if the integral diverge, the series diverge as well}}$$
 
+## Algorithm
+1. Write down the integral and the improper integral notation.
+2. Compute the integral. And calculate the limit.
+3. If the limit exists (in $R$), we say that the integral converges and we can proceed further.
+4. If the limit is $\pm\infty$, we say that the integral diverges.
+5. If the limit is uncertain, we try to calculate it with another method.
+
+## Exercises:
+Calculate the integral and determine the convergence of:
+$$\int_0^1\frac{1}{\sqrt{x}}dx$$
+1. Let's write down the integral:$$\int_0^1\frac{1}{\sqrt{x}}dx=\lim_{t \to 0}\int_t^1\frac{1}{\sqrt{x}}dx=\lim_{t \to 0}\int_t^1x^{-\frac{1}{2}}dx$$
+2. And let's compute it the usual way:$$=\lim_{t \to 0}2x^{\frac{1}{2}}$$
