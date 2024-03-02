@@ -98,4 +98,5 @@ Now, for another one:$$\int_1^\infty\frac{1}{\sqrt{x}}dx$$
 Note that this integral is quite similar, but since the domain differs we can foresee a different result. Straight to the computation we have:$$2\lim_{t \to \infty}(1^{\frac{1}{2}}-t^{\frac{1}{2}})=-\infty$$
 The limit is not in $R$. The integral is divergent.
 
-For the last one:$$\int_1^\infty\frac{x+1}{(x^2+1)\sqrt{x}}dx$$
+For the last one:$$\int_1^\infty\frac{x+1}{(x^2+2)\sqrt{x}}dx$$
+i don't f know:)))
