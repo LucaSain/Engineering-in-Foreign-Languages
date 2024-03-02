@@ -63,6 +63,12 @@ $$\int_1^\infty \frac{1}{x} \mathit{ \space is \space divergent}  $$
 **Tests of convergence**
 let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \Re} \quad \mathit{if} \space (b-x)^\alpha f(x)\epsilon(0,\infty)$
 
-**Exercise**
+## Tests of convergence recap
+
+| Name                                 | Formulae                                       | Convergence                   | Divergence                   |
+| ------------------------------------ | ---------------------------------------------- | ----------------------------- | ---------------------------- |
+| Ratio Test                           | $\lim_{n \to \infty}\|\frac{a_{n+1}}{a_n}=r\|$ | $r<1$                         | $r>1$                        |
+| Comparison Test                      | $f \lt g$                                      | $g \space \mathit{converges}$ | $f \space \mathit{diverges}$ |
+| Leibniz Test (absolutely convergent) | $a_n >0 \space \lim_{n \to \infty} a_n$        |                               |                              |
 
 
