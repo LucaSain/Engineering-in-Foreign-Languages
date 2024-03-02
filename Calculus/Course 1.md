@@ -49,9 +49,11 @@ $$
 A(a)=\int_\epsilon^1|ln(x)|dx = -\int_\epsilon^1\ln(x)dx = -(-\epsilon\ln(\epsilon)-1+\epsilon), \epsilon \to 0 = 1
 $$
 Compute the area $e^x$. The area is still 1 👌.
-**Definition**$$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad is \space convergent \space if \\
+Here's an animation to illustrate the Riemann Summation: 
+![[CreateCircle.mp4]]
+**Definition**$$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad \text{is  convergent if} \\
 \lim_{\displaylines{{u \to b} \\ u \lt b}} \int_a^bf(x)dx \space \epsilon \space \Re \\ 
-\mathit{if \space yes} \\ 
+\text{if yes} \\ 
 \int_a^bf(x)dx=\lim_{\displaylines{{u \to b} \\ u<b}}\int_a^uf(x)dx
 }$$
 
@@ -71,7 +73,8 @@ let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \
 | Comparison Test                      | $f \lt g$                                      | $g \space \mathit{converges}$                                                                                                                                    | $f \space \mathit{diverges}$ |
 | Leibniz Test (absolutely convergent) | $\sum_{n=1}^\infty (-1)^n a_n$                 | $\displaylines{a_n >0 \space \\ \lim_{n \to \infty} a_n=0,\\ and \space  \forall n, a_{n+1}\le a_n}$                                                             | -                            |
 | Stolz-Cesaro Theorem                 | $\lim_{n \to \infty}\frac{a_n}{b_n}=l$         | $\displaylines{(b_n)_{n\ge 1}\\ \mathit{strictly \space monotone \space \\ and \space divergent \space}}$$lim_{n \to \infty} \frac{a_{n+1}-a_n}{b_{n+1}-b{n}}=l$ | -                            |
-|                                      |                                                |                                                                                                                                                                  |                              |
-|                                      |                                                |                                                                                                                                                                  |                              |
 
+## New tests of convergence
+The integral test:
+$$\displaylines{if \space f \space is \space a \space monotone \space decreasing \space and\\ \space \int_1^\infty f(x)dx = \lim_{t \to \infty} \int_1^t f(x)dx \lt \infty \\ \mathit{the \space series \space converges} \\ \text{otherwise, if the integral diverge, the series diverge as well}}$$
 
