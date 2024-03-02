@@ -49,8 +49,7 @@ $$
 A(a)=\int_\epsilon^1|ln(x)|dx = -\int_\epsilon^1\ln(x)dx = -(-\epsilon\ln(\epsilon)-1+\epsilon), \epsilon \to 0 = 1
 $$
 Compute the area $e^x$. The area is still 1 👌.
-**Definition**
-Let $$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad is \space convergent \space if \\
+**Definition**$$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad is \space convergent \space if \\
 \lim_{\displaylines{{u \to b} \\ u \lt b}} \int_a^bf(x)dx \space \epsilon \space \Re \\ 
 \mathit{if \space yes} \\ 
 \int_a^bf(x)dx=\lim_{\displaylines{{u \to b} \\ u<b}}\int_a^uf(x)dx
