@@ -50,8 +50,8 @@ A(a)=\int_\epsilon^1|ln(x)|dx = -\int_\epsilon^1\ln(x)dx = -(-\epsilon\ln(\epsil
 $$
 Compute the area $e^x$. The area is still 1 👌.
 Here's an animation to illustrate the Riemann Summation: 
-![[CreateCircle.mp4]]
-**Definition**$$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \quad \text{is  convergent if} \\
+![[Excalidraw/CreateCircle.mp4]]
+**Definition**$$\displaylines{f \rightarrow R, b \space \epsilon \space R\cup\set{\infty} \\ \int_a^bf(x)dx \space \text{is  convergent if} \\
 \lim_{\displaylines{{u \to b} \\ u \lt b}} \int_a^bf(x)dx \space \epsilon \space \Re \\ 
 \text{if yes} \\ 
 \int_a^bf(x)dx=\lim_{\displaylines{{u \to b} \\ u<b}}\int_a^uf(x)dx

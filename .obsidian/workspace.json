@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +157,7 @@
   },
   "active": "02d8778acf1afc4e",
   "lastOpenFiles": [
-    "CreateCircle.mp4",
+    "Excalidraw/CreateCircle.mp4",
     "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.md",
     "Excalidraw/Seminar 2 2024-02-27 17.30.43.excalidraw.svg",
     "Excalidraw/Seminar 2 2024-02-27 17.18.31.excalidraw.md",
