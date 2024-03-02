@@ -73,6 +73,7 @@ let $\int_a^bf(x) \quad f \ge 0  \space(at \space b)_{b \space \epsilon \space \
 | Comparison Test                      | $f \lt g$                                      | $g \space \mathit{converges}$                                                                                                                                    | $f \space \mathit{diverges}$ |
 | Leibniz Test (absolutely convergent) | $\sum_{n=1}^\infty (-1)^n a_n$                 | $\displaylines{a_n >0 \space \\ \lim_{n \to \infty} a_n=0,\\ and \space  \forall n, a_{n+1}\le a_n}$                                                             | -                            |
 | Stolz-Cesaro Theorem                 | $\lim_{n \to \infty}\frac{a_n}{b_n}=l$         | $\displaylines{(b_n)_{n\ge 1}\\ \mathit{strictly \space monotone \space \\ and \space divergent \space}}$$lim_{n \to \infty} \frac{a_{n+1}-a_n}{b_{n+1}-b{n}}=l$ | -                            |
+| Riemann series/ Harmonic series      | $x \to \infty$                                 | $\frac{-1}{x}$                                                                                                                                                   | $\frac{1}{x}$                |
 
 ## New tests of convergence
 The integral test:
